@@ -1,3 +1,4 @@
+
 ## Reflection – Week 1
 **Learnings**
 1. Persona-Prompts liefern 30 % längere, aber fokussiertere Antworten.
@@ -6,3 +7,5 @@
 
 **Offene Frage**
 – Wie verbessere ich in Gemini die Bild-Referenzen bei Multimodal-Prompts?
+
+
