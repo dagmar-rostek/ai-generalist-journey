@@ -8,3 +8,4 @@
 **Offene Frage**
 – Wie verbessere ich in Gemini die Bild-Referenzen bei Multimodal-Prompts?
 
+
