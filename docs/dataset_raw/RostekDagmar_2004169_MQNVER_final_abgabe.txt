@@ -1,0 +1,520 @@
+Hausarbeit
+
+
+Themenstellung: Sekundäranalyse Gesundheit und Gesundheitsverhalten von Mitarbeitern (Alternative C)
+
+
+
+eingereicht am 19.12.2021 über den eCampus
+Modulverantwortlicher Hochschullehrer:
+Prof. Dr. Anja Tausch
+SRH Fernhochschule
+
+
+
+Modul: Qualitative Datenanalyse
+Studiengang: Wirtschaftspsychologie 
+
+
+
+von
+Dagmar Rostek
+Ackerstraße 10
+52074 Aachen
+Studiengang: Wirtschaftspsychologie 
+Matrikelnummer: 2004169
+ 
+
+1	EINLEITUNG	5
+1.1	PROBLEMSTELLUNG	5
+1.2	ZIELSETZUNG	6
+1.3	ÜBERSICHT ÜBER DIE ARBEIT	6
+2	THEORETISCHE GRUNDLAGEN ZUM THEMA GESUNDHEIT UND ARBEIT	7
+2.1.	GESUNDHEIT	7
+2.2.	IST GESUNDHEIT VOM ARBEITSVERHÄLTNIS ABHÄNGIG?	7
+2.3.	WELCHEN EINFLUSS HAT DIE ARBEITSMENGE AUF GESUNDHEITLICHE BESCHWERDEN?	9
+2.4.	WELCHEN EINFLUSS HAT DER ARBEITSPLATZ (BÜRO VS. NICHT-BÜRO) AUF GESUNDHEITLICHE BESCHWERDEN?	9
+2.5.	WELCHEN EINFLUSS HAT DIE FÜHRUNGSVERANTWORTUNG AUF GESUNDHEITLICHE BESCHWERDEN?	9
+2.6.	WELCHE VARIABLEN HABEN EINFLUSS AUF DAS GESUNDHEITSVERHALTEN?	9
+2.7.	ZUSAMMENFASSUNG UND HYPOTHESEN(N)	10
+3	METHODE	11
+3.1.	STICHPROBENBESCHREIBUNG	11
+3.2.	METHODISCHE GRUNDLAGEN DER ANALYSE	12
+3.3.	DIE REGRESSIONSANALYSE	13
+3.4.	AUSWAHL DES INFERENZSTATISTISCHEN VERFAHRENS	15
+3.4.1.	Voraussetzungen für den t-Test für unabhängige Stichproben	17
+3.5.	ÜBERPRÜFUNG DER HYPOTHESEN	17
+3.6.	DAS DURCHSCHNITTLICHE GESUNDHEITSVERHALTEN	20
+3.7.	REGRESSIONSANALYSE ZUR VORHERSAGE EINES ZUSAMMENHANGS	21
+3.7.1.	Voraussetzungen für die Durchführung einer linearen Regressionsanalyse	21
+4.	DISKUSSION UND INTERPRETATION DER ERGEBNISSE	23
+4.1.	QUALITÄT DES EIGENEN VORGEHENS (OBJEKTIVITÄT, RELIABILITÄT, VALIDITÄT)	23
+4.2.	AUSBLICK	24
+5.	ANHANG	26
+6.	LITERATURVERZEICHNIS	31
+7.	ANHANG – VERSICHERUNG	36
+
+ 
+Abbildungsverzeichnis
+Abbildung 1 Häufigkeiten Wirtschaftszweige / Branchen	12
+Abbildung 2 Ablaufschritte der Regressionsanalyse (Quelle: leicht modifizierte Darstellung aus Backhaus et al., 2021, S. 67)	14
+Abbildung 3 Methodenberatung: Welcher statistische Test passt zu meiner Fragestellung und meinen Daten? (Quelle: Riepl, 2013)	15
+Abbildung 4 Faktoren, die einen gesunden Lebensstil erschweren, nach ihrer Bedeutung für Befragte (Quelle: Burkhart, Huesman-Koecke, Bossmann, 2021, S. 7)	25
+Abbildung 5 Histogramm zur graphischen Prüfung der Normalverteilung zur abhängigen Variablen gesundheitliche Beschwerden	30
+
+Tabellenverzeichnis
+Tabelle 1 t-Test der Variablen Häufigkeit gesundheitlicher Beschwerden und Beschäftigungsvariable Voll- vs. Teilzeit	18
+Tabelle 2 Effektgrößen bei unabhängigen Stichproben	18
+Tabelle 3 t-Test der Variablen Häufigkeit gesundheitlicher Beschwerden und Büroarbeitsplatz Ja vs. Nein	19
+Tabelle 4 Effektgrößen bei unabhängigen Stichproben	19
+Tabelle 5 t-Test der Variablen Häufigkeit gesundheitlicher Beschwerden und Führungskraft mit Personalverantwortung Ja vs. Nein	20
+Tabelle 6 Effektgrößen der Variablen Häufigkeit gesundheitlicher Beschwerden	20
+Tabelle 7 Deskriptive Statistik des durchschnittlichen Gesundheitsverhalten	21
+Tabelle 8 Modellzusammenfassung der multiplen linearen Regressionsanalyase	22
+Tabelle 9 ANOVA-Tabelle der multiplen linearen Regressionsanalyse	22
+Tabelle 10 Koeffizienten-Tabelle	22
+Tabelle 11 Deskriptive Statistik der Variable Alter	27
+Tabelle 12 Deskriptive Statistik der Variable Geschlecht	27
+Tabelle 13 Häufigkeitsverteilung der Wirtschaftszweige/Branchen	28
+Tabelle 14 Kolmogorov-Smirnov-Test bei einer Stichprobe	29
+
+
+ 
+Gender-Erklärung
+In dieser Hausarbeit wird aus Gründen der besseren Lesbarkeit die Sprachform des generischen Maskulinums verwendet. Es wird an dieser Stelle darauf hingewiesen, das Weibliche und anderweitige Geschlechteridentitäten dabei ausdrücklich mitgemeint werden, soweit es für die Aussage erforderlich ist. 
+ 
+1	Einleitung
+Welcher Arbeitgeber möchte das nicht, gesunde und leistungsfähige Mitarbeiter? Laut statistischem Bundesamt liegen die „volkswirtschaftlichen Kosten aufgrund gesundheitsbedingter Produktionsausfälle (…) deutschlandweit im zweistelligen Milliardenbereich“ (Statistisches Bundesamt, zitiert nach de.statista.com, 2021). Das Thema Gesundheit, Belastung und Gesundheitsverhalten wird aus den unterschiedlichsten Richtungen betrachtet. Zum einen werden berufliche Belastungsfaktoren analysiert, die als Ergebnis die Gesundheit beeinflussen können (RKI, 2015), andererseits beeinträchtigt wiederum die Gesundheit die berufliche Belastung (Barnay, 2014) und das Gesundheitsverhalten. Die betriebliche Gesundheitsförderung (BGF) beschäftigt sich mit dem Gesundheitsverhalten der Mitarbeiter und ist Teil des Gesundheitsmanagements (BGM) (Pfannstiel, Mehlich, 2018). Jegliche „Maßnahmen von Arbeitgebern, Arbeitnehmern und der Gesellschaft zur Verbesserung von Gesundheit und Wohlbefinden am Arbeitsplatz“ wird als betriebliche Gesundheitsförderung nach Luxemburger Deklaration aufgefasst (Ludwig, et al., 2020, S. 1491). Krankenkassen ergänzen die Angebote von Betrieben zur Gesundheitsförderung, so gehören Angebote zur „Steigerung körperlicher Aktivität, die Förderung gesunder Ernährung und die Raucherentwöhnung“ (Ludwig, et al., 2020, S. 1491) zum Angebotsportfolio. Inwiefern die Kriterien des Arbeitsverhältnisses und das eigene Gesundheitsverhalten gesundheitliche Beschwerden bedingen, wird in dieser Arbeit beleuchtet. Dabei werden die unterschiedlichen Arbeitsverhältnisse und Variablen, die das Gesundheitsverhalten beeinflussen können, analysiert und die jeweilige Signifikanz bestimmt. 
+
+1.1	Problemstellung
+Digitalisierung, VCUA  Welt und Corona sind Bestandteile die einen enormen Einfluss auf unsere Arbeit und nicht nur das physische, sondern auch psychische Gesundheitserleben und Gesundheitsverhalten haben. Laut Statistischem Bundesamt (2021) steigt „der Anteil der Arbeitnehmerinnen und Arbeitnehmer, die sich krankgemeldet haben“ weiter an. 1995 lag der Höchstwert durchschnittlich bei 13 Tagen, welcher dann bis 2007 auf 8,1 Tage gesunken ist. Seit 2007 steigen die durchschnittlichen Krankheitstage je Beschäftigten pro Jahr weiter an, im Jahr 2019 beliefen sie sich bei 10,9. Laut Statista kosten kranke Mitarbeiter den Arbeitgeber immer mehr, so waren es 2010 noch 37,3 Mrd. Euro, 2014 schon 50,1 Mrd. Euro und 2018 dann schon 61,8 Mrd. Euro. Die Erhöhung der Kosten liegt einerseits an dem steigenden Krankheitsstand, andererseits an der guten Beschäftigungslage und den Lohnsteigerungen (Nier, 2020). Die von 2011 durchgeführte Studie von der Strategieberatung Booz & Company zeigt auf, das nicht allein durch die Krankheitstage den Unternehmen Kosten entstehen, sondern höhere Kosten durch die Mitarbeiter entspringen, die krank bei der Arbeit erscheinen. Der Begriff Präsentismus beschreibt das Phänomen von Mitarbeitern, die trotz Krankheit bei der Arbeit erscheinen. Die weitaus höheren Kosten entstehen durch die verminderte Arbeitsqualität, vermehrten Fehler und Steigerung der Anzahl von Unfällen, „verzögernde Genesung bis hin zu chronischer Erkrankung und Burn-out“. So betragen die Kosten laut der Studie für Krankheitstage 1.199 Euro pro Mitarbeiter, wohingegen die Kosten für Mitarbeiter, die trotz Krankheit arbeiten bei 2.399 Euro liegen (Maar, Fricker, 2011, S. 7). Der Verbesserung der Arbeitsbedingungen im Rahmen des Arbeitsschutzes wird ein erheblicher Stellenwert eingeräumt, da die Folgen von Krankheit und damit verbundenen wirtschaftlichen Kosten enorm ist (Kroll, et al., 2017, S. 125).
+
+1.2	Zielsetzung
+In dieser Arbeit soll untersucht werden, inwiefern sich Aspekte des Beschäftigungsverhältnisses auf Gesundheitsbeschwerden auswirken, und ob ausgewählte Variablen einen signifikanten Beitrag zur Vorhersage des Gesundheitsverhaltens leisten.
+
+1.3	Übersicht über die Arbeit
+Für den Einstieg in das Thema werden im zweiten Kapitel die theoretischen Grundlagen anhand aktueller Forschungsergebnisse beleuchtet. Dabei wird Gesundheit im Zusammenhang von unterschiedlichen Beschäftigungsvariablen betrachtet. Am Ende des theoretischen Teils werden die Hypothesen abgeleitet. Im anschließenden Methodenteil folgt eine Beschreibung der Stichprobe. Folgend wird die Regressionsanalyse kurz skizziert mit Begründung der Auswahl des inferenzstatistischen Verfahrens. Im Ergebnisteil werden geeignete univariate Deskriptivstatistiken zu der relevanten Variablen vorgestellt. Mittels einer Regressionsanalyse wird ermittelt welche der Variablen einen signifikanten Beitrag zur Vorhersage des Gesundheitsverhaltens leisten. Abschließend folgen eine Diskussion und Interpretation der Ergebnisse mit einer kritischen Reflexion der Qualität des eigenen Vorgehens und ein Ausblick. 
+2	Theoretische Grundlagen zum Thema Gesundheit und Arbeit
+In diesem Kapitel wird zunächst auf den Zusammenhang von Gesundheit und dem Arbeitsverhältnis eingegangen. Dabei werden unterschiedliche Kriterien betrachtet, die einen Einfluss auf Gesundheit und das Gesundheitsverhalten nehmen können. 
+
+2.1.	Gesundheit
+Die WHO definiert Gesundheit als „ein Zustand vollständigen körperlichen, seelischen und sozialen Wohlbefindens und nicht nur das Freisein von Krankheit oder Gebrechen“ (WHO, 2013). „Als Gesundheitsverhalten werden Handlungen von gesunden Menschen bezeichnet, die das Risiko von Erkrankungen nachweislich senken oder die Chance für Gesundheit erhöhen. Maßnahmen, die Menschen mit Erkrankungssymptomen ergreifen, werden dagegen als Krankheitsverhalten definiert. Gesundheitshandeln wiederum umfasst die Verhaltensweisen von gesunden wie auch kranken Menschen, die als subjektiv bedeutsam für die Gesunderhaltung betrachtet werden. Wie alle drei Arten des Handelns im Alltag konkret aussehen, wird durch den sozialen Kontext und das individuelle Alltagskonzept von Gesundheit geprägt. Aus dieser Perspektive heraus werden die Bedeutung von Partizipation und Empowerment für die Gesundheitsförderung betont“ (Faltermaier, 2020).
+
+2.2.	Ist Gesundheit vom Arbeitsverhältnis abhängig?
+Laut Robert Koch-Institut Berlin nimmt „(r)und ein Fünftel der erwerbstätigen Bevölkerung (…) starke oder sehr starke Gesundheitsgefahren am Arbeitsplatz wahr“ (Kroll, et al., 2017, S. 124). Thomas Barnay betont das die Verbindung zwischen dem Arbeitsverhältnis und der Gesundheit bidirektional ist, da die beiden Variablen sich gegenseitig bedingen (Barnay, 2014). Zu den arbeitsbedingten Größen, die die Gesundheit beeinflussen werden Arbeitsunfähigkeit, Erwerbsminderung, Berufskrankheiten, Arbeitsbelastungen und Arbeitslosigkeit genannt (RKI, 2015, S. 157 ff). Zu den Beanspruchungen zählen „soziale Konflikte am Arbeitsplatz, körperliche schwere Arbeit unter schwierigen Umgebungsbedingungen sowie Leistungs- und Termindruck“ (RKI, 2015, S. 162). Zu „den psychischen Belastungen nennen mittlere Führungskräfte vor allem den starken Erfolgs-, Termin- und Zeitdruck, die ständige Erreichbarkeit und zunehmende Arbeitsverdichtung“ (Geradi et al., 2014). Im Rahmen des Arbeitsschutzgesetzes sind seit 2014 alle deutschen Unternehmen dazu verpflichtet, eine „Beurteilung der psychischen Gefährdungen ihrer Beschäftigten bei der Arbeit“ zu erstellen und „entsprechende Arbeitsschutzmaßnahmen“ zu entwickeln (Pfannenstiel, & Mehlich, 2018, S. 681). So haben sich nach Hahnzog „insbesondere die psychische Belastung bei der Arbeit (…) erhöht bzw. verlagert“ (Pfannenstiel, & Mehlich, 2018, S. 682). Bei der psychischen Gefährdungsbeurteilung sollen nach der „Gemeinsamen Deutschen Arbeitsschutzstrategie – GDA“ (2018) fünf Merkmalsbereiche betrachtet werden: Der Arbeitsinhalt beziehungsweise die Arbeitsaufgabe, die Arbeitsorganisation, die sozialen Beziehungen, die Arbeitsumgebung und neue Arbeitsformen. Beim Arbeitsinhalt und der Arbeitsaufgabe wird die Vollständigkeit der Aufgabe sowie der Handlungsspielraum und die Variabilität der Aufgabe betrachtet. Darüber hinaus spielen der Umfang des Informationsangebots und die Klarheit der Verantwortlichkeiten eine Rolle. Qualifikationen und die emotionale Inanspruchnahme gehören zum Merkmalsbereich. Kritische Ausprägungen sind exempli causa einseitige Anforderungen oder zu umfangreiche Informationen mit Reizüberflutung, unklare Kompetenzen beziehungsweise Verantwortlichkeiten und unzureichende Einweisungen. Zusätzlich wird das ständige Eingehen auf die Bedürfnisse von beispielsweise Kunden, Patienten beziehungsweise Schüler als Kriterium genannt, das einen Einfluss auf den Merkmalsbereich hat. Bei der Arbeitsorganisation werden Aspekte wie Arbeitszeit, Arbeitsablauf, Kommunikation und Kooperation betrachtet. Kritische Ausprägungen sind wie zum Beispiel wechselnde, beziehungsweise lange Arbeitszeiten, Arbeit auf Abruf, Zeitdruck oder hohe Arbeitsintensität, häufige Störungen und Unterbrechungen, isolierte Einzelarbeit, mangelhafte Unterstützung durch Vorgesetzte und Kollegen und unklare Verantwortungsbereiche. Beim Merkmalsbereich soziale Beziehungen werden Aspekte wie Kollegen und Vorgesetzte betrachtet. Mögliche kritische Ausprägungen sind eine zu geringe oder zu hohe Zahl sozialer Kontakte, häufige Streitigkeiten und Konflikte oder fehlende soziale Supervision. Bei den Vorgesetzten sind kritische Ausprägungen mangelnde Qualifizierung der Führungskräfte, vermisstes Feedback und fehlende Anerkennung für erbrachte Leistungen genannt und nicht vorhandene Führung oder Unterstützung im Bedarfsfall. Der Merkmalsbereich Arbeitsumgebung beinhaltet physikalische und chemische Facetten wie Lärm, Beleuchtung und Gefahrenstoffe. Bei den physischen Aspekten handelt es sich um ungünstige ergonomische Gestaltung und schwere Arbeit. Bei der Arbeitsplatz- und Informationsgestaltung sind Beispiele für negative Wirkungen ungünstige Arbeitsräume, Enge und unzureichende Gestaltung von Signalen und Hinweisen. Der Merkmalsbereich Arbeitsmittel beinhaltet fehlendes oder ungeeignetes Werkzeug bzw. Arbeitsmittel, ungünstige Bedienung oder Einrichtung von Maschinen und unzureichende Softwaregestaltung. Der Bereich der neuen Arbeitsformen impliziert kritische Dimensionen wie räumliche Mobilität, atypische Arbeitsverhältnisse, diskontinuierliche Berufsverläufe, zeitliche Flexibilisierung und reduzierte Abgrenzung zwischen Arbeit und Privatleben. Der letzte Punkt ist in Zeiten von COVID-19-Pandemie ein Problem für viele Mitarbeiter im Homeoffice. So geben laut Statista Befragung zum Thema Homeoffice und mobiles Arbeiten 45% der befragten an, dass im Homeoffice eine klare Trennung zwischen Beruf und Privatleben fehlt (Statista, 2021, S. 17). Die Arbeitsbedingungen spielen eine zentrale Rolle bezüglich der psychischen Gefährdungsbeurteilung. Im Folgenden werden die drei beschäftigungsvariablen Arbeitsmenge, Arbeitsplatz und Führungsverantwortung hinsichtlich der Häufigkeiten von gesundheitlichen Beschwerden betrachtet. 
+
+2.3.	Welchen Einfluss hat die Arbeitsmenge auf gesundheitliche Beschwerden?
+Laut Arbeitszeitreport von 2016 arbeiten Vollzeitbeschäftigte im Schnitt 5 Stunden mehr als durchschnittlich vereinbart. Bei 2 bis 5 Überstunden geben die Befragten gesundheitliche Beschwerden an. Müdigkeit und Erschöpfung erleiden 55%, Rücken- und Kreuzschmerzen geben 50% an, 40% beklage körperliche Abgeschlagenheit und 33% äußern Schlafstörungen und 26% klagen über Niedergeschlagenheit (Nier, 2016). 
+
+2.4.	Welchen Einfluss hat der Arbeitsplatz (Büro vs. Nicht-Büro) auf gesundheitliche Beschwerden?
+Laut VBG-Fachwissen existieren in der Bundesrepublik Deutschland „18 Millionen Bildschirm- und Büroarbeitsplätze“ (VBG, 2013). Zu den Belastungen zählt die VBG „unergonomische Arbeitsplätze, ungeeignete Arbeitsmittel und ungünstige Arbeitsbedingungen“ (VBG, 2013, S. 12), die gesundheitlichen Beschwerden verursachen können. 
+
+2.5.	Welchen Einfluss hat die Führungsverantwortung auf gesundheitliche Beschwerden? 
+Führungskräfte sind „zunehmend psychischen Belastungen ausgesetzt, die sich von denen ihrer Beschäftigten teilweise unterscheiden und davon abhängig sind, in welcher Hierarchiestufe sie sich befinden“ (Gerardi, et al., 2014, S. 18). So seien die Führungskräfte im mittleren Management besonders gefordert und Belastungen wie „starken Erfolgs-, Termin- und Zeitdruck, (…) ständige Erreichbarkeit und zunehmende Arbeitsverdichtung“ ausgesetzt. Die Beschwerden reichen von Schlafstörungen, über Erschöpfung und Müdigkeit, Reizbarkeit und Nervosität bis hin zu Depressionen (Gerardi, et al., 2014, S. 19). 
+
+2.6.	Welche Variablen haben Einfluss auf das Gesundheitsverhalten? 
+Hinnen et al. hat in einer explorativen Sekundäranalyse den Einfluss des Berufs auf das Gesundheitsverhalten und die biologischen kardiovaskulären Risikofaktoren untersucht (Hinnen et al., 1993, S. 117). Das Ergebnis indiziert, das sich ein durchweg signifikanter Unterschied in Bezug auf das Gesundheitsverhalten zeigt. Betrachtet wurden die Berufsgruppen Landwirte, Automechaniker, Architekten, Ingenieure, Unternehmer, kaufmännische Angestellte, Handelsreisende, Chauffeure, Köche, Polizisten, Ärzte, Lehrer, und Magaziner. Das Gesundheitsverhalten wurde bezüglich der Variablen Rauchen, Ernährung, Körperlicher Freizeitaktivitäten und Alkoholkonsum betrachtet. So zeigt sich beispielsweise, dass Chauffeure ein ungünstiges Gesundheitsverhalten demonstrieren, wohingegen Architekten ein günstiges Gesundheitsverhalten, bezogen auf die betrachteten Variablen aufzeigen (Hinnen et al., 1993, S. 119). Laut Statista (2021) hat das Alter einen Einfluss auf das Gesundheitsverhalten. Untersucht wurde, ob bewusst darauf geachtet wird, durch das eigene Verhalten und die Lebensweise Krankheiten vorzubeugen. Dazu wurden 2.012 Personen im Alter von 18 bis über 60 Jahren befragt. Dabei geben 57,6% der 18- bis 29-jährigen an, dass ihre Lebensweise Krankheiten vorbeugen soll im Gegensatz zu 77% bei den über 60-jährigen. „Rund 68 Prozent der Befragten im Alter von 30 bis 39 Jahren geben an, bewusst durch ihre Lebensweise und Verhalten Krankheiten vorbeugen zu wollen“ (WIdO, & Medizinisch Wissenschaftliche Verlagsgesellschaft, 2019). Das Geschlecht zeigt laut DKV-Report „Wie gesund lebt Deutschland?“, Unterschiede beim Gesundheitsverhalten. So liegen Frauen bezüglich der Prozentzahlen in allen betrachteten Aspekten wie: Leben rundum gesund, Aktivität, Ernährung, Rauchen, Alkohol und Stress vor den befragten Männern (DKV, 2010). Die Max Grundig Klinik hat eine Befragung von 1.000 Führungskräften durchgeführt, um festzustellen was Führungskräfte regelmäßig für ihre Gesundheit tun und festgestellt, dass 61 Prozent der Führungskräfte auf ihre Ernährung achten (Max Grundig Klinik, 2015). 
+
+2.7.	Zusammenfassung und Hypothesen(n)
+Es zeigt sich, dass eine Vielzahl an Variablen eine Einwirkung auf physische und psychische Beschwerden haben. Neben dem Beschäftigungsverhältnis, ob Voll- oder Teilzeit hat der Arbeitsplatz, ob Büro oder nicht Büro und die Führungsverantwortung einen Einfluss auf die gesundheitlichen Beschwerden. So zeigt sich, dass der Arbeitsinhalt mit Aufgabenspektrum und Verantwortlichkeiten und die sozialen Beziehungen eine Wirkung auf die gesundheitlichen Beschwerden haben. Hervorzuheben sind Führungskräfte, die nicht nur für sich selbst, sondern auch für ihre Mitarbeiter Verantwortung tragen. Die Arbeitsorganisation und Arbeitsformen beinhalten die Arbeitszeitmodelle, die Einfluss auf die körperlichen Beschwerden nehmen können. 
+
+Die betrachtete Literatur deutet darauf hin, dass sich die Häufigkeit gesundheitlicher Beschwerden in Abhängigkeit der Beschäftigungsvariable Arbeitszeit unterscheiden.  
+•	H0 Die Häufigkeit der gesundheitlichen Beschwerden unterscheiden sich nicht in Abhängigkeit der Beschäftigungsvariable Voll- vs. Teilzeit.
+•	H1 Die Häufigkeit der gesundheitlichen Beschwerden unterscheiden sich in Abhängigkeit der Beschäftigungsvariable Voll- vs. Teilzeit. 
+
+Die Arbeitsumgebung kann je nach Setting zu gesundheitlichen Beschwerden führen, wie beispielsweise Rückenprobleme. 
+•	H0 Die Häufigkeit der gesundheitlichen Beschwerden unterscheiden sich nicht in Abhängigkeit der Beschäftigungsvariable Büro vs. Nicht-Büro-Arbeitsplatz.
+•	H1 Die Häufigkeit der gesundheitlichen Beschwerden unterscheiden sich in Abhängigkeit der Beschäftigungsvariable Büro vs. Nicht-Büro-Arbeitsplatz. 
+
+Führungskräfte sind zusätzlichen Belastungen ausgesetzt die zu physischen und psychischen Problemen führen können wie beispielsweise Schlafstörungen oder Depression. 
+•	H0 Führungskräfte haben nicht mehr gesundheitlichen Beschwerden als Personen ohne Führungsverantwortung.
+•	H1 Führungskräfte mehr gesundheitlichen Beschwerden als Personen ohne Führungsverantwortung.
+
+3	Methode
+Im folgenden methodischen Teil wird zum einen die Stichprobe beschrieben, und welches Forschungsdesign und welche Forschungsmethoden verwendet wurden. 
+
+3.1.	Stichprobenbeschreibung
+Im Rahmen der Dachevaluation der gemeinsamen Deutschen Arbeitsschutzstrategie (GDA) sind 2015 insgesamt 5000 Arbeitnehmer befragt worden. Die Beschäftigungsbefragung fand im Zeitraum vom 08.06.2015 bis 18.08.2015 statt. Beim Erhebungsmodus handelt es sich um eine computergestützte telefonische Befragung (CATI). Die Grundgesamtheit beinhaltet deutschsprechende Arbeitnehmer ab 15 Jahren in Haushalten mit Festnetzanschluss. Beim Auswahlverfahren handelt es sich um eine mehrstufige Zufallsauswahl (Sommer, & Schmitt-Howe, 2018). Das Alter variiert von 15 bis 80, was eine Spannweite von 65 Jahren entspricht. Der Mittelwert liegt bei 47,24 Jahren, das Alter, das am häufigsten von 220 Teilnehmern angegeben wurde (Modus) liegt bei 52. Insgesamt haben 15 Teilnehmer keine Angaben zum Alter getätigt (s. Tabelle 1 Alter im Anhang). Die Befragung wurde mit 2914 Frauen (58,3%) und 2086 Männern (41,7%) vollzogen (s. Tabelle 2 Geschlecht im Anhang). 
+
+Im Fragebogen wurden die Teilnehmer dazu aufgefordert möglichst genau ihre Branche zu beschreiben. So wurden die Teilnehmer aufgerufen nicht allgemein den öffentlichen Dienst zu nennen, sondern spezifisch anzugeben, wenn sie beispielsweise im Krankenhaus arbeiten. Das folgende Kreisdiagramm zeigt die Häufigkeiten der unterschiedlichen Branchen. 
+
+
+ 
+Abbildung 1 Häufigkeiten Wirtschaftszweige / Branchen 
+Dabei sind 138 Datensätze nicht eindeutig einer Branche oder einem Wirtschaftszweig zuordenbar. Tabelle 4 (Häufigkeitsverteilung Wirtschaftszweige/Branchen) im Anhang listet die Häufigkeiten entsprechend der im Nachhinein codierten Branchen auf. 
+
+3.2.	Methodische Grundlagen der Analyse
+Standardanalysen können in zwei Kategorien eingeteilt werden, deskriptive Statistiken und inferentielle Statistiken (Dempster & Donncha, 2019, S. 700). Ziel der Deskriptiven Statistik ist die Beschreibung der gesammelten Daten, „anhand von Stichprobenkennwerten“ (Döring & Bortz, 2016, S. 612). Dafür werden Lageparameter, Streuungsmaße und Zusammenhangsmaße verwendet. Das Lagemaß ist eine Zusammenfassung der Daten in einem Wert, wobei sich das Lagemaß immer auf eine Variable bezieht (Dempster & Donncha, 2012, S. 617). Zu den Lagemaßen gehören der Modus, der Median, auch Zentralwert genannt, das arithmetische Mittel, das geometrische Mittel, das harmonische Mittel, das Quantil, das Quartil, sowie das Minimum und Maximum. Welches der Lagemaße Verwendung finden sollte, ist einerseits abhängig von der Mindestanforderung an das Skalenniveau und von der Anfälligkeit gegenüber Ausreißern.   So ist das arithmetische Mittel anfällig gegenüber Ausreißern, wohingegen der Median nicht (Mentorium, 2021). Die Streuung beschreibt die Variabilität der Variablen. Die Standardabweichung ist das gebräuchlichste Maß für die Streuung der Variablen (Dempster, Donncha, 2012, S. 561). Zusammenhangsmaße werden verwendet, „um die Stärke eines statistischen Zusammenhangs zwischen zwei Variablen anzugeben“ (Benning, 2020). Schlussfolgerungen auf Populationen sind mittels inferentieller Statistik möglich. „Dabei wird zum einen die Ausprägung einzelner Variablen in der Population geschätzt (Methoden der statistischen Parameterschätzung) und zum anderen werden Hypothesen zu Relationen zwischen Variablen in der Population geprüft (Methoden der statistischen Hypothesenprüfung)“ (Döring & Bortz, 2016, S. 612). 
+
+3.3.	Die Regressionsanalyse
+Bei der Regressionsanalyse handelt es sich um eine statistische Datenanalyse durch die Beziehungen zwischen Variablen analysiert werden können. Die Beziehungen der Variablen können beschrieben und erklärt, oder vorhergesagt werden. Die Regressionsanalyse hilft dabei kausale Zusammenhänge zu prüfen, kann allerdings allein „keine Kausalität beweisen“ (Backhaus et al., 2021, S. 63). Bei der linearen Regression werden Prädiktorvariablen (unabhängige Variable(n)) definiert mit deren Hilfe die Kriteriumsvariable oder das Kriterium (abhängige Variable) prognostiziert werden kann. „Ziel der Analyse ist die Vorhersage der Merkmalsausprägung einer Person im Kriterium mithilfe der Merkmalsausprägung der Probanden in einem oder mehreren Prädiktoren, die eventuell zu einem anderen Zeitpunkt erhoben wurden“ (Leonhart, 2014, S. 9). Auch lässt sich mittels der Regressionsanalyse die Stärke des Effektes bestimmen (Backhaus et al., 2021, S. 62). Die Regressionsanalyse hilft dabei zu verstehen „wie die Welt funktioniert“ und „kann bei der Suche nach Wahrheiten verwendet werden (Backhaus et al., 2021, S. 62). Es wird zwischen der einfachen linearen Regression und der Multiplen Regression unterschieden. Bei der „multiplen Regressionsanalyse lassen sich mehrere Einflussgrößen berücksichtigen“ (Backhaus et al., 2021, S. 66). Die folgende Abbildung zeigt die Ablaufschritte der Regressionsanalyse. 
+
+ 
+Abbildung 2 Ablaufschritte der Regressionsanalyse (Quelle: leicht modifizierte Darstellung aus Backhaus et al., 2021, S. 67)
+Im ersten Schritt der Modellformulierung werden die Variablen ausgewählt und definiert, die funktionelle Form wird konkretisiert und es werden Annahmen über Störgrößen getroffen. Bei der Schätzung der Regressionsfunktion wird die Modellschätzung durchgeführt. „Die Regressionsfunktion spezifiziert den Zusammenhang zwischen einem quantitativen Merkmal – der Zielvariable – und einem oder mehreren quantitativen Merkmalen – den Einflussfaktoren“ (Gressner, & Arndt, 2019, S. 2050). Die Schätzung der Regressionsfunktion bedeutet, dass die Parameter „auf der Grundlage eines Datensatzes (Beobachtung der Variablen) geschätzt werden. Dieser Vorgang wird als Modellschätzung oder Kalibrierung bezeichnet“ (Backhaus et al. 2021, S. 73). Im dritten Schritt, der Prüfung der Regressionsfunktion geht es darum die „Güte (Qualität) zu beurteilen“ (Backhaus, 2021, S. 85). Dabei wird untersucht, „wie gut sich ein Modell an die empirischen Daten anpasst und weiterhin, ob es sich als Modell der Realität eignet“ (Backhaus, 2021, S. 85). Einerseits wird geprüft, wie gut die abhängige Variable durch das Regressionsmodell erklärt wird (goodness of fit) und andererseits „wie gut einzelne Variablen des Regressionsmodells zur Erklärung der abhängigen Variable Y beitragen“ (Backhaus, 2018, S. 75). Mittels der globalen Gütemaße: Das Bestimmtheitsmaß R-Quadrat, der F-Statistik und der Standardfehler, kann die Regressionsfunktion geprüft werden. Im nächsten Schritt werden die Regressionskoeffizienten geprüft. Wenn ein Zusammenhang besteht, werden alle „Regressionskoeffizienten einzeln“ überprüft (Backhaus, 2018, S. 84). Mittels des t-Wert oder des Beta-Wertes können die Regressionskoeffizienten geprüft werden. Im letzten Schritt werden die Modellprämissen begutachtet. Um die Ergebnisse einer multiplen linearen Regression interpretieren zu können müssen die folgenden Voraussetzungen erfüllt sein: 
+•	Die Variablen müssen in einer linearen Beziehung stehen. 
+•	Die Daten dürfen keine Ausreißer enthalten. 
+•	Die Residuen müssen unabhängig sein. 
+•	Es darf keine Multikolinearität vorliegen. 
+•	Es muss eine Gleichheit der Varianzen vorliegen, das wird als Homoskedastizität bezeichnet. 
+•	Darüber hinaus müssen die Residuen normalverteilt sein. 
+Wenn diese Voraussetzungen erfüllt sind, kann eine multiple lineare Regression durchgeführt werden (Hemmerich, 2021).
+
+3.4.	Auswahl des inferenzstatistischen Verfahrens
+Im ersten Schritt werden in drei getrennten Analysen untersucht, inwiefern sich die gesundheitlichen Beschwerden in Abhängigkeit der Beschäftigungsvariablen unterscheiden. Der folgende Entscheidungsbaum hilft bei der Auswahl des inferenzstatistischen Verfahrens. 
+
+ 
+Abbildung 3 Methodenberatung: Welcher statistische Test passt zu meiner Fragestellung und meinen Daten? (Quelle: Riepl, 2013)
+Im ersten Schritt müssen die Variablen analysiert werden. Das bedeutet, dass neben der Anzahl der Variablen, für jede Variable festgelegt werden muss „über welches Skalenniveau sie verfügt“ (Kuhlmei, 2018, S. 66). Die Variable gesundheitliche Beschwerden ist die abhängige Variable mit den Ausprägungen: „Fast immer“, „Eher häufig“, „Eher selten“ und „Fast nie“. Die Ausprägungen „Nicht sicher ob arbeitsbedingt“ und „Weiß nicht“, werden als fehlende Werte definiert, da sie für die Bearbeitung der Fragestellung nicht relevant sind. Somit handelt sich um eine intervallskalierte Variable mit vier Kategoriestufen. Die Variable ist intervallskaliert, da es eine Rangfolge gibt und die Abstände zwischen den Kategoriestufen als gleichmäßig verteilt betrachtet werden können. Bei den Beschäftigungsvariablen Voll- vs. Teilzeit, Büro vs. Nicht-Büro-Arbeitsplatz, Führungsverantwortung vs. keine Führungsverantwortung handelt es sich um nominalskalierte Variablen. Bei der Variable Beschäftigungsstatus, werden die Ausprägungen „voll erwerbstätig“, „in Teilzeit beschäftigt“, „als Mini-Jobber bzw. auf 450-Euro-Basis beschäftigt“, „ZP ist derzeit nicht abhängig beschäftigt“ unterschieden. Nur die Antwortoptionen „voll erwerbstätig“ und „in Teilzeit beschäftigt“ werden als Antwortoptionen in die Analyse einbezogen, alle anderen Werte werden als fehlende Werte definiert, da sie für die Beantwortung der Fragestellung nicht relevant sind. Die Variable Büroarbeitsplatz hat neben „Ja“ und „Nein“ die Werte „Teils-teils“, „Weiß nicht“ und „Keine Angabe“. Auch hier werden nur die Antwortoptionen „Ja“ und „Nein“ mit in die Betrachtung integriert und alle anderen Werte als fehlende Werte definiert, da sie für die Beantwortung der Fragestellung keine Relevanz haben. Bei der Variable Führungskraft mit Personalverantwortung werden die Werte: „Weiß nicht“ und „Keine Angabe“ als fehlende Werte definiert, so dass nur die Antwortoptionen „Ja“ und „Nein“ in die Betrachtung einbezogen werden. Im ersten Schritt ist im Entscheidungsbaum zu entscheiden, ob Unterschiede, Zusammenhänge oder eine Interdependezanalyse vollzogen werden soll. Es werden die Unterschiede bezüglich der Beschäftigungsvariablen bezogen auf die gesundheitlichen Beschwerden betrachtet. Demnach ist im Entscheidungsbaum der linke Zweig – Unterschiede – zu beschreiten. Im zweiten Schritt ist zu entscheiden, ob zentrale Tendenzen, oder Varianzen oder Proportionen und Häufigkeiten betrachtet werden sollen. Es werden zentrale Tendenzen bzw. Mittelwerte betrachtet, daher wird der linke Knoten im Entscheidungsbaum betrachtet mit der Beschriftung zentrale Tendenz. Bei der Stichprobe handelt es sich um eine unabhängige Stichprobe, da weder eine Messwiederholung durchgeführt wurde noch Abhängigkeiten innerhalb der Stichprobe existieren. Da die abhängige Variable intervallskaliert ist, ist der t-Test für unabhängige Stichproben für die Analyse auszuwählen. 
+
+3.4.1.	Voraussetzungen für den t-Test für unabhängige Stichproben
+Die Unabhängigkeit der Stichproben muss gewährleistet sein, d.h. dass kein Wert der einen Stichprobe auf einen Wert in der anderen Stichprobe Einfluss haben darf. Dies ist hier gegeben, da die Beschäftigungsvariablen unabhängig von den gesundheitlichen Beschwerden sind. Die abhängige Variable muss metrisch sein, auch dies ist gegeben, s. Begründung oben. Die Variablen müssen normalverteilt sein, damit der t-Test für unabhängige Stichproben die genauesten Ergebnisse liefert (DATAtab Team 2021). Zur Prüfung der Normalverteilung kann der Kolmogorov-Smirnov-Test verwendet werden (Budischewski, 2013).  Die Prüfung zeigt, dass keine Normalverteilung vorliegt, da in der Zeile „Asymptotische Signifikanz (2-seitig)“ der Wert nahe 0.000 steht. Das bedeutet, das der Signifikanzwert kleiner als 0.05 ist, was einem signifikanten Ergebnis entspricht und die Hypothese H1 „Die empirische Verteilung der Daten ist nicht normalverteilt“ mit einer Irrtumswahrscheinlichkeit von 5% bestätigt. (Budischewski, 2013, S. 68). Die SPSS-Ausgabe befindet sich im Anhang (Tabelle 13 Kolmogorov-Smirnov-Test bei einer Stichprobe). Darüber hinaus befindet sich im Anhang ein Histogramm zur graphischen Prüfung der Normalverteilung zur abhängigen Variablen gesundheitliche Beschwerden (s. Abbildung 5 Histogramm zur graphischen Prüfung der Normalverteilung zur abhängigen Variablen gesundheitliche Beschwerden). In zahlreichen Studien wurde gezeigt, dass der t-Test robust gegenüber Verletzung der Normalverteilungsannahme ist, wenn die Stichprobengröße von 30 überschritten wird (Hemmerich, 2021), so dass der t-Test im Folgenden angewendet werden kann. Eine weitere Voraussetzung ist, dass die Varianz innerhalb der Gruppen möglichst gleich sein sollte. In SPSS kann mittels des Levene-Tests überprüft werden ob die Varianzen gleich sind, dies kann gleichzeitig mit dem t-Test analysiert werden. Dabei besagt die H0 Hypothese, dass die Gruppen gleiche Varianzen haben, die H1 Hypothese, dass die Gruppen nicht gleiche Varianzen haben. 
+
+3.5.	Überprüfung der Hypothesen
+Die erste Hypothese betrachtet den Zusammenhang der gesundheitlichen Beschwerden in Abhängigkeit der Beschäftigungsvariable Arbeitszeit. 
+•	H0 Die Häufigkeit der gesundheitlichen Beschwerden unterscheiden sich nicht in Abhängigkeit der Beschäftigungsvariable Voll- vs. Teilzeit.
+•	H1 Die Häufigkeit der gesundheitlichen Beschwerden unterscheiden sich in Abhängigkeit der Beschäftigungsvariable Voll- vs. Teilzeit.
+
+ 
+Tabelle 1 t-Test der Variablen Häufigkeit gesundheitlicher Beschwerden und Beschäftigungsvariable Voll- vs. Teilzeit 
+
+ 
+Tabelle 2 Effektgrößen bei unabhängigen Stichproben 
+Der Levene-Test zeigt eine Signifikanz von 0,404 was oberhalb des Signifikant Niveaus von 0,05 liegt. Dementsprechend kann die Nullhypothese angenommen werden, was bedeutet, dass die Gruppen gleiche Varianzen haben. Der Mittelwert ist exakt identisch und liegt bei 3,09 und da die Standardabweichung sehr nah beieinander liegt, und die 2-seitige Signifikanz bei 0,951 liegt, kann die Alternativhypothese verworfen werden und die Nullhypothese angenommen werden. Demnach unterscheidet sich die Häufigkeit der gesundheitlichen Beschwerden nicht in Abhängigkeit der Beschäftigungsvariable Voll- vs. Teilzeit. Die Effektgröße liegt bei 0,002, demnach liegt nach Cohen (1988, S. 79) kein Effekt vor. 
+
+Die zweite Hypothese betrachtet den Einfluss der Arbeitsumgebung, ob Büro oder Nicht-Büroarbeitsplatz einen Einfluss auf gesundheitliche Beschwerden nimmt. 
+•	H0 Die Häufigkeit der gesundheitlichen Beschwerden unterscheiden sich nicht in Abhängigkeit der Beschäftigungsvariable Büro vs. Nicht-Büro-Arbeitsplatz.
+•	H1 Die Häufigkeit der gesundheitlichen Beschwerden unterscheiden sich in Abhängigkeit der Beschäftigungsvariable Büro vs. Nicht-Büro-Arbeitsplatz. 
+ 
+Tabelle 3 t-Test der Variablen Häufigkeit gesundheitlicher Beschwerden und Büroarbeitsplatz Ja vs. Nein 
+
+ 
+Tabelle 4 Effektgrößen bei unabhängigen Stichproben 
+
+Der Levene-Test zeigt eine Signifikanz von 0,501 was oberhalb des Signifikant Niveaus von 0,05 liegt. Dementsprechend kann die Nullhypothese angenommen werden, was bedeutet, dass die Gruppen gleiche Varianzen haben. Der Mittelwert unterscheidet sich, insofern, dass Personen mit einem Büroarbeitsplatz weniger gesundheitliche Beschwerden haben. Die 2-seite Signifikanz liegt unter 0.001, dementsprechend liegt ein Unterschied bei den Gruppen vor. Die Effektstärke liegt bei 0,214 was nach Cohen (1988, S. 79) ein schwacher Effekt bedeutet. 
+
+Die dritte Hypothese betrachtet den Zusammenhang zwischen Führungsverantwortung und gesundheitlichen Beschwerden. 
+•	H0 Führungskräfte haben nicht mehr gesundheitlichen Beschwerden als Personen ohne Führungsverantwortung.
+•	H1 Führungskräfte mehr gesundheitlichen Beschwerden als Personen ohne Führungsverantwortung.
+
+
+
+ 
+Tabelle 5 t-Test der Variablen Häufigkeit gesundheitlicher Beschwerden und Führungskraft mit Personalverantwortung Ja vs. Nein
+ 
+Tabelle 6 Effektgrößen der Variablen Häufigkeit gesundheitlicher Beschwerden 
+Der Levene-Test zeigt eine Signifikanz von 0,103 was oberhalb des Signifikant Niveaus von 0,05 liegt. Der Mittelwert der betrachteten Gruppen unterscheidet sich mit 3,14 und 3,08, was bedeutet, dass Führungskräfte mit Personalverantwortung mehr gesundheitliche Beschwerden haben. Die 2-seitige Signifikanz liegt über 0.05 mit 0,053, daher wird die Alternativhypothese verworfen und die Nullhypothese angenommen, was bedeutet, dass Führungskräfte mit Personalverantwortung nicht mehr gesundheitliche Beschwerden haben als Personen ohne Führungsverantwortung. Die Effektstärke liegt bei 0,065 was fast kein Effekt bedeutet. 
+
+3.6.	Das durchschnittliche Gesundheitsverhalten
+Für das durchschnittliche Gesundheitsverhalten der Mitarbeiter wird eine neue Variable berechnet, die aus dem Mittelwert der Variablen W15A700a bis W15A700d besteht. Bei den Variablen handelt es sich um folgende Angaben.
+•	W15A700a = Verhalten: Halte mich an geltende Arbeitsschutzvorschriften 
+•	W15A700b = Verhalten: Mache Vorschläge, wie sich Sicherheit und Gesundheitsschutz verbessern lassen
+•	W15A700c = Verhalten: Greife ein, wenn sich andere sicherheitswidrig verhalten
+•	W15A700d = Verhalten: Fühle mich mitverantwortlich für Sicherheit und Gesundheitsschutz 
+Dabei gibt es jeweils die Antwortoptionen: „Trifft voll und ganz zu“, „Trifft eher zu“, „Trifft eher nicht zu“, „Trifft überhaupt nicht zu“, „Weiß nicht“ und „Keine Angabe“. Die letzten beiden Angaben werden als fehlende Werte definiert, da sie keine Relevanz für die Beantwortung der Fragestellung haben.
+ 
+Tabelle 7 Deskriptive Statistik des durchschnittlichen Gesundheitsverhalten 
+Der Mittelwert für das durchschnittliche Gesundheitsverhalten liegt bei 1,8085 mit einer Standardabweichung von 0,60759. Der Wert zeigt, dass die Mitarbeiter sich im Durschnitt an die Vorschriften halten, Vorschläge machen, wie sich Sicherheit und Gesundheitsschutz verbessern lassen kann, im Gefahrenfall eingreifen und sich mitverantwortlich fühlen für die Sicherheit und den Gesundheitsschutz. Es wurden 4989 Befragte bei der Analyse berücksichtigt, wobei das Minimum bei 1 und das Maximum bei 4 liegt. 
+
+3.7.	Regressionsanalyse zur Vorhersage eines Zusammenhangs
+Im folgenden Schritt wird die Vorhersage des durchschnittlichen Gesundheitsverhaltens geprüft, inwiefern welche der Variablen: Alter, Geschlecht, Branchengruppe oder Führungsverantwortung einen signifikanten Beitrag zur Vorhersage des durchschnittlichen Gesundheitsverhalten leisten. Dafür eignet sich die Regressionsanalyse, mit der es möglich ist, einen „kausalen Zusammenhang zwischen zwei oder mehreren Variablen“ aufzuzeigen (Leonhart, 2014, S. 9). 
+
+3.7.1.	Voraussetzungen für die Durchführung einer linearen Regressionsanalyse
+Die folgenden Voraussetzungen müssen gegeben sein: Die Regressionsresiduen müssen unabhängig sein, es muss „Intervallskalenniveau und Normalverteilung bei Prädiktor und Kriterium“ vorliegen, und „Homoskedastizität und Normalverteilung bei den Regressionsresiduen“ (Leonhart, 2014, S. 11). Aufgrund des begrenzten Umfangs der Hausarbeit ist eine Voraussetzungsprüfung nicht erforderlich.  
+
+ 
+Tabelle 8 Modellzusammenfassung der multiplen linearen Regressionsanalyase 
+Das R-Quadrat liegt bei 0,047 was bedeutet, dass 4,7%, der Varianz durch das Modell erklärt werden kann. 
+ 
+Tabelle 9 ANOVA-Tabelle der multiplen linearen Regressionsanalyse 
+Die Signifikanz liegt bei 0, was bedeutet, dass das Modell einen signifikanten Beitrag zur Vorhersage des durchschnittlichen Gesundheitsverhaltens leistet. Die Einzelnen Variablen können in der Koeffizienten Tabelle analysiert werden.
+
+ 
+Tabelle 10 Koeffizienten-Tabelle 
+Die Signifikanz der Variablen Alter, Branchengruppe und Führungskraft mit Personalverantwortung liegt bei 0, so dass sie einen signifikanten Einfluss auf das durchschnittliche Gesundheitsverhalten haben. Die Signifikanz der Variable Geschlecht ist hingegen bei 0.660, so dass diese Variable nicht weiter betrachtet werden kann. Der Regressionskoeffizient gibt an, ob der Einfluss positiv oder negativ ist. Bei der Variable Alter zeigt sich, dass mit einer Erhöhung des Alters eine Reduzierung des durchschnittlichen Gesundheitsverhaltens einhergeht. Bei der Variable Branchengruppen steigt das durchschnittliche Gesundheitsverhalten je nach Branche. Die Variable Führungskraft mit Personalverantwortung führt mit 0,251 zu einer Erhöhung des durchschnittlichen Gesundheitsverhaltens. 
+
+Im folgendem Diskussionsteil wird das Vorgehen vor dem Hintergrund von Gütekriterien qualitativer Forschung bewertet.
+4.	Diskussion und Interpretation der Ergebnisse
+Ziel der Studie war es Variablen zu identifizieren die einen Einfluss auf physische und auch psychische Beschwerden haben können. Die Literatur deutet darauf hin, dass sich gesundheitliche Beschwerden in Abhängigkeit von Beschäftigungsvariablen unterscheiden. Bei den Beschäftigungsvariablen wurde die Variable Voll- vs. Teilzeit, Büro versus Nicht-Büro-Arbeitsplatz und Führungskräfte mit und ohne Führungsverantwortung betrachtet. Die Ergebnisse zeigen, dass die gesundheitlichen Beschwerden nicht in Abhängigkeit der Beschäftigungsvariable Voll- vs. Teilzeit zunehmen. Das ist ein anderes Ergebnis als anhand der Literatur vermutet. Die Variable Büroarbeitsplatz versus kein Büroarbeitsplatz zeigt, dass Personen mit einem Büroarbeitsplatz über weniger gesundheitliche Beschwerden klagen. Auch hier legte die betrachtete Literatur nahe, dass gerade der Büroarbeitsplatz beispielsweise zu vermehrten Rückenproblemen führen könnte. Auch ist das Ergebnis bezüglich der Betrachtung, ob Führungsverantwortung zu mehr gesundheitlichen Beschwerden führen nicht gestützt, sondern die Nullhypothese wurde angenommen, was bedeutet, dass Führungskräfte mit Personalverantwortung nicht über mehr gesundheitliche Beschwerden klagen. Gestützt wurde hingegen, dass die Befragten sich im Durschnitt nicht nur mitverantwortlich fühlen für die Sicherheit und den Gesundheitsschutz, sondern sich an Vorschriften halten, Vorschläge machen wie sich die Sicherheit verbessern kann. Auch weist das Ergebnis der Regressionsanalyse bezogen auf das Alter ein anderes Ergebnis auf, als nach Sichtung der Literatur hätte erwartet werden können, bei der das Gesundheitsverhalten im Alter steigt und nicht wie die Regressionsanalyse aufzeigt reduziert ist. Es wird die Hypothese gestützt, dass Führungskräfte mit Personalverantwortung ein erhöhtes Gesundheitsverhalten zeigen.
+
+4.1.	Qualität des eigenen Vorgehens (Objektivität, Reliabilität, Validität)
+Die Validität gibt Auskunft darüber, ob die Messung glaubwürdige Ergebnisse liefert. Folgende Faktoren haben Einfluss auf die Validität: Auswahl des Untersuchungsgegenstands, Verlauf, Datenerhebung, Verlust und die Mehrdeutigkeit (Pfeiffer, & Genau, 2021). Die Auswahl, der Verlauf und die Datenerhebung des sind valide, da der Datensatz im Rahmen einer Befragung von 5000 Arbeitnehmern entstanden ist und es sich um eine Stichprobenziehung als mehrstufige Zufallsauswahl handelt. Die Befragung fand im Zeitraum vom 08.06.2015 bis 18.08.2015 statt (Sommer, & Schmitt-Howe, 2018). Da es sich um keine Längsschnittstudie handelt ist der Aspekt des Verlustes hier nicht zu betrachten. Es zeigt sich, dass ein Einfluss der Beschäftigungsvariablen auf das Gesundheitsverhalten und gesundheitliche Beschwerden vorliegt. Einflussfaktoren auf die Reliabilität haben die Situation, d.h. der Ort und Zeitpunkt, die soziale Erwünschtheit, die Fragestellung und die Interpretation (Pfeiffer, & Genau, 2021). Da alle Schritte ausführlich beschrieben sind und die relevanten Ergebnisse der SPSS Analysen integriert sind, ist die Forschung reproduzierbar. Allerdings ist die Interpretation der Ergebnisse in Frage zu stellen. Viele der verwendeten Literatur am Anfang ist aktuelle Literatur. Die Befragung fand vor über 5 Jahren statt. Gerade in den letzten 2 Jahren hat sich im Rahmen der COVID-19-Pandemie viel bezüglich des Gesundheitsverhaltens und auch der gesundheitlichen Beschwerden verändert, so dass die Interpretation der Ergebnisse schwierig auf die heutige Zeit zu übertragen ist. Die Objektivität ist gegeben, wenn „der oder die Forschende selbst keinen Einfluss auf den Forschungsprozess ausübt“ (Pfeiffer, & Genau, 2021). Die Faktoren Forschungsumgebung, äußeres Erscheinungsbild und individuelle Einstellung haben einen Einfluss auf die Objektivität. Die Objektivität ist insofern gegeben, da die Daten mittels einer Telefonbefragung und einem standardisierten Fragebogen erhoben wurden. Die Auswertungsobjektivität wird durch die Datenaufbereitung gewährleistet.  
+
+4.2.	Ausblick
+Es zeigt sich, dass die Beschäftigungsvariablen nur wenig Einfluss auf gesundheitliche Beschwerden haben. Auch wird das Gesundheitsverhalten nur mäßig von den betrachteten Variablen, Alter, Branchengruppe, Geschlecht und Personal mit und ohne Führungsverantwortung beeinflusst. Interessant wäre die Studie im Rahmen von COVID-19-Pandemie und dem Heimarbeitsplätzen bezüglich der physischen und psychischen Belastung zu wiederholen in Kombination, ob sich das Gesundheitsverhalten im Rahmen der COVID-19-Pandemie verändert hat. In einer Studie der PricewaterhouseCoopers GmbH wurde die Frage analysiert, ob die COVID-10-Pandemie zu einem neuem Gesundheitsbewusstsein in Deutschland geführt hat.  So zeigt sich, dass auch im Jahr 2020 „Schlafprobleme, Rauchen und geringe Motivation die größten Hindernisse für einen gesunden Lebensstil waren (Burkhart, Huesman-Koecke, Bossmann, 2021, S. 6), allerdings sind „(n)eu unter den fünf größten Hürden (…) die Faktoren Einsamkeit und fehlende Motivation“ (Burkhart, Huesman-Koecke, Bossmann, 2021, S. 7).  
+ 
+Abbildung 4 Faktoren, die einen gesunden Lebensstil erschweren, nach ihrer Bedeutung für Befragte (Quelle: Burkhart, Huesman-Koecke, Bossmann, 2021, S. 7)
+Interessant ist weiterhin, dass in der Studie die Frage betrachtet wurde, „In wessen Verantwortung (…) es liegen (solle), die sozialen Einflussfaktoren auf die Gesundheit zu berücksichtigen“ (Burkhart, Huesman-Koecke, Bossmann, 2021, S. 11).   Es zeigt sich, dass 2019 noch 67% angaben, dass der jeweilige Mensch selbst die Verantwortung tragen sollen, hingegen 2020 nur noch 55%, wohingegen die staatlichen Stellen von 25% im Jahr 2019 auf 33% im Jahr 2020 gestiegen sind. Demensprechend wäre eine erneute Durchführung der Studie sicher sehr interessant.  
+5.	Anhang 
+Alter
+	Häufigkeit	Prozent	Gültige Prozente	Kumulierte Prozente
+Gültig	15	2	,0	,0	,0
+	16	2	,0	,0	,1
+	17	5	,1	,1	,2
+	18	9	,2	,2	,4
+	19	20	,4	,4	,8
+	20	20	,4	,4	1,2
+	21	24	,5	,5	1,6
+	22	22	,4	,4	2,1
+	23	24	,5	,5	2,6
+	24	26	,5	,5	3,1
+	25	28	,6	,6	3,7
+	26	43	,9	,9	4,5
+	27	31	,6	,6	5,1
+	28	38	,8	,8	5,9
+	29	44	,9	,9	6,8
+	30	66	1,3	1,3	8,1
+	31	56	1,1	1,1	9,2
+	32	65	1,3	1,3	10,5
+	33	73	1,5	1,5	12,0
+	34	77	1,5	1,5	13,5
+	35	87	1,7	1,7	15,3
+	36	109	2,2	2,2	17,5
+	37	101	2,0	2,0	19,5
+	38	89	1,8	1,8	21,3
+	39	93	1,9	1,9	23,1
+	40	111	2,2	2,2	25,4
+	41	85	1,7	1,7	27,1
+	42	109	2,2	2,2	29,3
+	43	125	2,5	2,5	31,8
+	44	141	2,8	2,8	34,6
+	45	170	3,4	3,4	38,0
+	46	145	2,9	2,9	40,9
+	47	184	3,7	3,7	44,6
+	48	172	3,4	3,5	48,1
+	49	193	3,9	3,9	51,9
+	50	210	4,2	4,2	56,1
+	51	184	3,7	3,7	59,8
+	52	220	4,4	4,4	64,3
+	53	197	3,9	4,0	68,2
+	54	188	3,8	3,8	72,0
+	55	205	4,1	4,1	76,1
+	56	175	3,5	3,5	79,6
+	57	165	3,3	3,3	82,9
+	58	167	3,3	3,4	86,3
+	59	158	3,2	3,2	89,4
+	60	147	2,9	2,9	92,4
+	61	133	2,7	2,7	95,0
+	62	101	2,0	2,0	97,1
+	63	72	1,4	1,4	98,5
+	64	44	,9	,9	99,4
+	65	16	,3	,3	99,7
+	66	3	,1	,1	99,8
+	67	4	,1	,1	99,9
+	68	1	,0	,0	99,9
+	69	1	,0	,0	99,9
+	71	2	,0	,0	99,9
+	72	1	,0	,0	100,0
+	75	1	,0	,0	100,0
+	80	1	,0	,0	100,0
+	Gesamt	4985	99,7	100,0	
+Fehlend	Keine Angabe	15	,3		
+Gesamt	5000	100,0		
+Tabelle 11 Deskriptive Statistik der Variable Alter 
+
+Geschlecht
+	Häufigkeit	Prozent	Gültige Prozente	Kumulierte Prozente
+Gültig	Männlich	2086	41,7	41,7	41,7
+	Weiblich	2914	58,3	58,3	100,0
+	Gesamt	5000	100,0	100,0	
+Tabelle 12 Deskriptive Statistik der Variable Geschlecht 
+
+
+
+Wirtschaftszweig/Branche
+	Häufigkeit	Prozent	Gültige Prozente	Kumulierte Prozente
+Gültig	Nicht eindeutig zuordnungsbar	138	2,8	2,8	2,8
+	Nahrungsmittelerzeugung	159	3,2	3,2	5,9
+	Bau, Energie und Abfall	322	6,4	6,4	12,4
+	Produktionsgüter	178	3,6	3,6	15,9
+	Investitions- und Gebrauchsgüter	600	12,0	12,0	27,9
+	Verbrauchsgüterprod., KFZ-Reparatur, Großhandel	170	3,4	3,4	31,3
+	Verkehr und Lagerei	218	4,4	4,4	35,7
+	Einzelhandel und Gastgewerbe	414	8,3	8,3	44,0
+	Kommunikations-, Finanz- und sonstige DL	560	11,2	11,2	55,2
+	Dienstleistungen überwiegend für Unternehmen	426	8,5	8,5	63,7
+	Erziehung und Unterricht	504	10,1	10,1	73,8
+	Gesundheits- und Sozialwesen	849	17,0	17,0	90,8
+	Öffentliche Verwaltung	462	9,2	9,2	100,0
+	Gesamt	5000	100,0	100,0	
+Tabelle 13 Häufigkeitsverteilung der Wirtschaftszweige/Branchen 
+
+
+
+
+
+
+
+
+Kolmogorov-Smirnov-Test bei einer Stichprobe
+	Häufigkeit gesundheitliche Beschwerden	Büroarbeitsplatz	Beschäftigungsstatus
+N	4952	4507	4835
+Parameter der Normalverteilunga,b	Mittelwert	3,10	1,51	1,28
+	Std.-Abweichung	,941	,500	,450
+Extremste Differenzen	Absolut	,212	,345	,453
+	Positiv	,166	,337	,453
+	Negativ	-,212	-,345	-,266
+Teststatistik	,212	,345	,453
+Asymp. Sig. (2-seitig)c	,000	,000	,000
+Monte-Carlo-Signifikanz (2-seitig)d	Sig.	,000	,000	,000
+	99% Konfidenzintervall	Untergrenze	,000	,000	,000
+		Obergrenze	,000	,000	,000
+
+Kolmogorov-Smirnov-Test bei einer Stichprobe
+	Führungskraft mit Personalverantwortung
+N	4987
+Parameter der Normalverteilunga,b	Mittelwert	1,77
+	Std.-Abweichung	,424
+Extremste Differenzen	Absolut	,476
+	Positiv	,290
+	Negativ	-,476
+Teststatistik	,476
+Asymp. Sig. (2-seitig)c	,000
+Monte-Carlo-Signifikanz (2-seitig)d	Sig.	,000
+	99% Konfidenzintervall	Untergrenze	,000
+		Obergrenze	,000
+Tabelle 14 Kolmogorov-Smirnov-Test bei einer Stichprobe 
+
+ 
+Abbildung 5 Histogramm zur graphischen Prüfung der Normalverteilung zur abhängigen Variablen gesundheitliche Beschwerden 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.	Literaturverzeichnis 
+
+Backhaus, K., Erichson, B., Plinke, W., Weiber, R., (2018). Multivariate Analysemethoden. Springer-Verlag Berlin Heidelberg. https://doi.org/10.1007/978-3-662-56655-8_2
+
+Backhaus, K., et al. (2021). Multivariate Analysemethoden. Springer Fachmedien Wiesbaden GmbH, ein Teil von Springer Nature 2021. https://doi.org/10.1007/978-3-658-32425-4_2  
+
+Benning, V., (2020). Zusammenhangsmaße verstehen und bestimmen. Zugriff am 29.10.2021. Verfügbar unter  https://www.scribbr.de/statistik/zusammenhangsmasse/
+
+Barnay, T., (2014). Health, Work and Working Conditions. Document de Travail. No 04-2014. A Rewiev of the European Economic Literature. Universite Paris Est. Zugriff am 19.11.2021. Verfügbar unter https://erudite.univ-gustave-eiffel.fr//fileadmin/public/ERUDITE/erudwp/ERU-04-14-tb.pdf
+
+Budischewski, K., (2013). Studienbrief SRH Fernhochschule. SPSS. 2. Auflage. 
+The Mobile University. Riedlingen. 
+
+Burkhart, M., Huesman-Koecke, S., Bossmann, B., (2021). Ein neues Gesundheitsbewusstsein für Deutschland? Leben mit der Pandemie. PricewaterhouseCoopers GmbH Wirtschaftsprüfungsgesellschaft. 
+
+Cohen, J. (1988). Statistical power analysis for the behavioural sciences. 2nd edition. New York: Academic Press.
+
+DATAtab Team (2021). DATAtab: Online Statistics Calcualtor. DATAtab e.U. Graz, Austria. URL https://datatab.net. Abgerufen am 04.12.2021. https://datatab.de/tutorial/unabh%C3%A4ngiger-t-test
+
+Dempster, M., Donncha, H., (2019). Statistik und Forschungsmethoden für Psychologen und Sozialwissenschaftler für Dummies (German Edition) (1. Auflage). Wiley. Kindle-Version.
+
+DKV, & zfg-koeln.de. (10. August, 2010). Wie gesund leben die Deutschen?* [Graph]. In Statista. Zugriff am 20. November 2021, von https://de.statista.com/statistik/daten/studie/163297/umfrage/gesunder-lebensstil-der-deutschen-nach-geschlecht/
+
+Döring, N., & Bortz, J. (2016). Forschungsmethoden und Evaluation in den Sozial- und Humanwissenschaften (5. Aufl.). Berlin, Heidelberg: Springer Verlag.
+
+Faltermaier, T., (2020). Gesundheitsverhalten, Krankheitsverhalten, Gesundheitshandeln. Bundeszentrale für gesundheitliche Aufklärung. doi:10.17623/BZGA:224-i060-2.0 Abgerufen am 7.08.2021 von: 
+https://leitbegriffe.bzga.de/alphabetisches-verzeichnis/gesundheitsverhalten-krankheitsverhalten-gesundheitshandeln/
+
+Geradi, C., et al. (2014). Führung und psychische Gesundheit. Deutsche Gesetzliche Unfallversicherung (DGUV). Fachbereich „Gesundheit im Betrieb! Sachgebiet „Psyche und Gesundheit in der Arbeitswelt“ (PuGidA) Projekt „Führung und psychische Gesundheit“. Deutsche Gesetzliche Unfallversicherung (DGUV). ISBN: 978-3-86423-100-1. Abgerufen am 19.11.2021. https://www.dguv.de/medien/inhalt/praevention/fachbereiche_dguv/fb-gib/psyche/broschuere_fuehrung.pdf
+
+Arbeitsschutzstrategie GDA (2018). Leitlinie Beratung und Überwachung bei psychischer Belastung am Arbeitsplatz. Gemeinsame Deutsche Arbeitsschutzstrategie (GDA, Hrsg.), online im Internet, Abgerufen am 19.11.2021. https://www.gda-portal.de/DE/Aufsichtshandeln/Psychische-Belastung/Psychische-Belastung_node.html 
+
+Gressner, A., & Arndt, T. (2019). Lexikon der Medizinischen Laboratoriumsdiagnostik. (3. Auflage). Springer-Verlag GmbH Deutschland ein Teil von Springer Nature 2007, 2013, 2019.  
+
+Hemmerich, W.A., (2021). StatistikGuru Verison 1.96. Abgerufen am 03.10.2021. https://statistikguru.de/spss/multiple-lineare-regression/voraussetzungen.html
+
+Hemmerich, W.A., (2021). StatistikGuru Verison 1.96. Abgerufen am 05.12.2021. https://statistikguru.de/spss/ungepaarter-t-test/normalverteilung-verletzt-4.html
+
+Kuhlmei, E., (2018). Lerne mit uns Statistik!, Springer-Lehrbuch, Springer-Verlag GmbH Deutschland, ein Teil von Springer Nature 2018. DOI https://doi.org/10.1007/978-3-662-56082-2_7
+
+Kroll, L., E,, Müters, S., Schumann, M,, Lampert, T., (2017). Wahrnehmung gesundheitsgefährdender Arbeitsbedingungen in Deutschland. Journal of Health Monitoring. DOI 10.17886/RKI-GBE-2017-121. Robert Koch-Institut, Berlin. Zugriff am 19.11.2021. Verfügbar unter https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsJ/FactSheets/JoHM_04_2017_Gesundheitsgefaehrdende_Arbeitsbedingungen.pdf?__blob=publicationFile
+
+
+Leonhart, R., (2014). Quantitative Verfahren. Studienbrief (1. Auflage) Riedlingen; SRH Fernhochschule. The Mobile University. 
+
+Ludwig, S., Starker, A., Hermann, S. et al. (2020). Inanspruchnahme von Maßnahmen der betrieblichen Gesundheitsförderung in Deutschland – Ergebnisse der Studie „Gesundheit in Deutschland aktuell“ (GEDA 2014/2015-EHIS). Bundesgesundheitsbl 63, 1491–1501 (2020). https://doi.org/10.1007/s00103-020-03239-z
+
+Maar, C., Ficker, R., (2011). Vorteile Vorsorge. Die Rolle der betrieblichen Gesundheitsvorsorge für die Zukunftsfähigkeit des Wirtschaftsstandortes Deutschland. 
+
+Max Grundig Klinik (2015). Was Führungskräfte regelmäßig für ihre Gesundheit tun. Abgerufen am 20.11.2021. https://max-grundig-klinik.de/presse/was-fuehrungskraefte-regelmaessig-fuer-ihre-gesundheit-tun/
+
+Mentorium. (2021). Statistik-Nachhilfe. Lagemasse. Abgerufen am 29.10.2021. https://www.statistik-nachhilfe.de/ratgeber/statistik/deskriptive-statistik/masszahlen/lagemasse
+
+Nier, H,, (2020). Kranke Mitarbeiter kosten Arbeitgeber immer mehr. Statista. Abgerufen am 7.8.2021 von: https://de.statista.com/infografik/20494/entgeltfortzahlungen-von-arbeitgebern-bei-krankheit/
+
+Nier, H. (2016). Schon wenige Überstunden machen krank. Digitales Bild. Zugriff am 20. November 2021. Von https://de.statista.com/infografik/7334/gesundheitsbeschwerden-durch-ueberstunden/
+
+Pfeiffer, F., Genau, L., (2021). Validität, Reliabilität und Objektivität – Gütekriterien für die quantitative Forschung. Zugriff am 05.12.2021. Verfügbar unter https://www.scribbr.de/methodik/validitaet-reliabilitaet-objektivitaet/
+
+Pfannstiel, M. A., Mehlich. H., (2018). BGM – Ein Erfolgsfaktor für Unternehmen. Lösungen, Beispiele, Handlungsanleitungen. Springer Gabler. 
+
+Robert Koch-Institut (2015). Gesundheit in Deutschland 2015: Kapitel 3. Welche Faktoren beeinflussen die Gesundheit. Robert Koch-Institut, Berlin. Zugriff am 19.11.2021. Verfügbar unter https://www.rki.de/DE/Content/Gesundheitsmonitoring/Gesundheitsberichterstattung/GBEDownloadsGiD/2015/03_gesundheit_in_deutschland.pdf?__blob=publicationFile
+
+Sommer, S., & Schmitt-Howe, B., (2018). Betriebs- und Beschäftigtenbefragung 2015 im Rahmen der Dachevaluation der Gemeinsamen Deutschen Arbeitsschutzstrategie (GDA) - Strategieperiode II. GESIS Datenarchiv, Köln. ZA6759 Datenfile Version 1.0.0, https://doi.org/10.4232/1.12653.
+Hinnen U., (1993). Einfluss des Berufs auf das Gesundheitsverhalten und die biologischen kardiovaskulären Risikofaktoren. Soz Präventivmed 1993; Suppl 2: S 117 – S 121. Birkäusser Verlag Basel.
+
+Statista (2021). Homeoffice und mobiles Arbeiten. Artikel-Nummer: did-86464-1
+
+Statistisches Bundesamt (2021). Zugriff am 17.11.2021 unter  https://de.statista.com/themen/33/krankheit-und-beruf/#dossierKeyfigures
+
+Statistisches Bundesamt (2021). Zugriff am 07.08.2021 unter https://www.destatis.de/DE/Themen/Arbeit/Arbeitsmarkt/Qualitaet-Arbeit/Dimension-2/krankenstand.html
+
+VBG, (2013). Gesundheit im Büro. Fragen und Antworten. Version 3.0/2013-10. Abgerufen am 20.11.2021. https://www.unimedizin-mainz.de/fileadmin/kliniken/betriebsarzt/Dokumente/Gesundheit_im_Buero_BGI_5018.pdf
+
+Weltgesundheitsorganisation, (2013). WHO verweist in einem neuen Bericht auf ungleiche gesundheitliche Fortschritte in Europa und fordert zur Messung des Fortschritts eine genaue Erfassung des Wohlbefindens. euro.who.int/de/media-centre/sections/press-releases/2013/03/new-who-report-reveals-unequal-improvements-in-health-in-europe-and-calls-for-measurement-of-well-being-as-marker-of-progress abgerufen am 18.04.2021
+
+WIdO, & Medizinisch Wissenschaftliche Verlagsgesellschaft. (11. März, 2019). Ich achte bewusst darauf, durch mein Verhalten und meine Lebensweise Krankheiten vorzubeugen [Graph]. In Statista. Zugriff am 20. November 2021, von https://de.statista.com/statistik/daten/studie/1050118/umfrage/umfrage-zu-krankheitsvorbeugenden-lebensweisen-nach-altersklassen/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7.	Anhang – Versicherung
+
+
+Versicherung
+
+
+Name:	Dagmar Rostek
+Matrikel-Nr.:	2004169
+Studiengang:	Wirtschaftspsychologie
+
+
+
+Hiermit versichere ich, dass ich die vorliegende Hausarbeit mit dem Thema
+
+Sekundäranalyse Gesundheit und Gesundheitsverhalten von Mitarbeitern (Alternative C) 
+
+ohne fremde Hilfe erstellt habe. Alle verwendeten Quellen wurden angegeben. Ich versichere, dass ich bisher keine Hausarbeit mit gleichem oder ähnlichem Thema an einer anderen Hochschule eingereicht habe.
+
+
+
+Datum:	19.12.2021	Unterschrift: 	 
+
