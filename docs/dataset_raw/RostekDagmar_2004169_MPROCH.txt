@@ -1,0 +1,234 @@
+Hausarbeit
+Burke-Litwin-Kausalmodell
+Mithilfe des Buke-Litwin-Kausalmodells lassen sich Faktoren analysieren, die Einfluss auf den organisationalen Wandel haben. Wenden Sie das Modell auf ein konkretes Fallbeispiel an und diskutieren Sie anhand des Fallbeispiels und unter Bezugnahme auf relevante wissenschaftliche Literatur, welchen Beitrag das Burke-Litwin-Kausalmodell für die praktische Gestaltung von Change-Management-Prozessen leisten kann. 
+
+
+
+
+
+eingereicht am 04. März 2018 über den eCampus
+Modulverantwortlicher Hochschullehrer:
+Prof. Dr. Kirsten Hermann
+SRH Fernhochschule
+
+
+
+Modul: Projekt- und Change-Management
+Studiengang: Angewandte Psychologie mit Schwerpunkt Wirtschaft 
+
+
+
+
+
+
+von
+Dagmar Rostek
+Ackerstraße 10
+52074 Aachen
+Studiengang: Angewandte Psychologie mit Schwerpunkt Wirtschaft 
+Matrikelnummer: 2004169
+ 
+Inhaltsverzeichnis
+EINLEITUNG	3
+THEORETISCHE GRUNDLAGEN	3
+CHANGE MANAGEMENT PROZESSE	3
+DAS BURKE-LITWIN MODELL	5
+VERÄNDERUNGEN ERSTER UND ZWEITER ORDNUNG	7
+TRANSAKTIONALE UND TRANSFORMATIONALE DIMENSION	8
+ANWENDUNGSTEIL	9
+ANALYSE DER DIMENSIONEN DES BURKE-LITWIN KAUSALMODELLS	11
+INTERVENTIONEN BASIEREND AUF DER ANALYSE DES BURKE-LITWIN KAUSALMODELLS	15
+DISKUSSION	18
+ZUSAMMENFASSUNG, FAZIT UND AUSBILCK	18
+LITERATURVERZEICHNIS	20
+ANHANG – VERSICHERUNG	22
+
+
+Abbildungsverzeichnis
+Abbildung 1 Begriffe Change Prozess (Quelle: Eigene Darstellung)	4
+Abbildung 2 Modell of Organizational Performance and Change (Quelle: Burke & Litwin, 1992, S. 528)	7
+Abbildung 3 Organisationsstruktur ALIAS.COM (Quelle: Eigene Darstellung)	11
+Abbildung 4 Organisationsdiagnose mit Burke-Litwin Kausalmodell (Quelle: Eigene Darstellung in Anlehnung an Burke & Litwin, 1992, S. 528)	14
+Abbildung 5 Burke-Litwin Kausalmodell Simulation einer Intervention (Quelle: Eigene Darstellung in Anlehnung an Burke & Litwin, 1992, S. 528)	17
+
+ 
+Einleitung 
+„Allerdings gibt es keine eine richtige Antwort, wenn es um organisationales Chang Management geht (...) Was wir verstehen und akzeptieren müssen, ist, dass Wandel kontextabhängig ist“ (Todnem By, 2017, S. 19). Dabei wäre es so schön, einen Algorithmus zur Hand zu haben, der immer funktioniert und mittels dessen es möglich wäre ein jedes Unternehmen erfolgreich durch einen Change Prozess zu führen. 
+Burke und Litwin haben ein Modell entwickelt, das zwischen psychologischen Aspekten und organisationalen Faktoren eine Kausalbeziehung herstellt (Burke & Litwin, 1992, S. 526). Das Modell betrachtet ein Unternehmen als ein System mit Dimensionen die wechselseitig voneinander abhängig sind. Ist es möglich die von Todnem By angesprochenen Kontextbedingungen mit dem Kausalmodell von Burke und Litwin zu erfassen und die hohe Scheiterrate von über 50% bei Change Projekten (Ashkenas, 2013) zu reduzieren? Die folgende Arbeit zeigt anhand eines Beispiels exemplarisch auf, welchen Beitrag das Burke-Litwin-Kausalmodell für die Gestaltung von Change-Management-Prozessen leisten kann. 
+In dieser Hausarbeit werden im Kapitel Theoretische Grundlagen das Burke-Litwin-Kausalmodell und grundlegende relevante Begrifflichkeiten im Zusammenhang mit Change Management Prozessen vorgestellt. Im Anwendungsteil wird an einem konkreten Fallbeispiel erörtert, welchen Beitrag das Kausalmodell bei einem konkreten Change Prozess leisten kann. Das Startup Unternehmen des Fallbeispiels existiert unter anderem Namen, jedoch die beschriebene Struktur wie auch die Probleme stimmen mit der Realität überein. Im Schlusskapitel findet sich eine Diskussion der Grenzen und Möglichkeiten des Modells und zusammenfassend ein Fazit mit Ausblick. Die Hausarbeit basiert neben der angegebenen Literatur auf den Studienbriefen „Change Management: Instrumente und Konzepte“ (2011) von Prof. Dr. Katrin Allmendinger und „Change Management Grundlagen“ (2011) von Prof. Dr. Axel Koch.
+
+Theoretische Grundlagen
+Change Management Prozesse
+Bei der Suche nach einer allgemeingültigen Definition von Change Management fällt auf, dass diese so nicht existiert. Im Gabler Wirtschaftslexikon ist die Kurzerklärung für Change Management “laufende Anpassung von Unternehmensstrategien und -strukturen an veränderten Rahmenbedingungen“ (Change Management, o.D.). Weitere Begrifflichkeiten im Zusammenhang mit Change Prozessen sind: Wandel (erster und zweiter Ordnung), Transformation, Änderung, Restrukturierung, Reorientierung, Revitalisierung, Remodellierung, transaktionale und transformale Faktoren und viele mehr.  Abbildung 1 (Begriffe Change Prozess) zeigt die unterschiedlichen Begrifflichkeiten bezüglich ihrer Komplexität, Intensität und entsprechenden Handlungsfelder bei einem Change Prozess. 
+Im Außenkreis befinden sich Prozesse der Restrukturierung. Dabei handelt es sich um weniger komplexe Change Prozesse. Hierbei geht es oft um die Optimierung von Ressourcen und Workflows der Organisation. Dem Bereich der Reorientierung werden beispielsweise Veränderungen von Geschäftsfeldern zugeordnet. Zur Revitalisierung gehören Strategien zur Umgestaltung von Fähigkeiten und Verhalten in der Organisation. Ein Beispiel ist die Einführung von Zielvereinbarungen, die in Jahresgesprächen gemeinsam mit den Mitarbeitern ausgearbeitet werden. Im Zentrum des Kreises sind tiefgreifende Änderungsprozesse angeordnet, mit höchster Komplexität und auch Intensität für die Organisationsmitglieder. Davon betroffen sind die Werte und Überzeugungen der Organisation. Die transformationalen Faktoren sind: Kultur, Führung, Mission, Strategie und äußere Umgebung. Prozesse, die in diesen Bereich anzusiedeln sind, werden als Wandel zweiter Ordnung klassifiziert. Die Übergänge der einzelnen Bereiche sind fließend. 
+
+	 
+Abbildung 1 Begriffe Change Prozess (Quelle: Eigene Darstellung)
+Das Burke-Litwin Modell
+	Das Burke-Litwin Kausalmodell resultiert aus den Arbeiten von Litwin in den 1960er Jahren zum Thema Organisationsklima (Burke & Litwin, 1992, S. 526). Als Organisationsklima bezeichnen die Autoren die Verbindung zwischen psychologischen und organisationalen Variablen in einem Kausalzusammenhang (Burke & Litwin, 1992, S. 526). Es handelt sich um ein hierarchisches Modell, in dem die Dimensionen einer Organisation mit ihren Interdependenzen darstellt sind. Das das Modell hierarchisch ist bedeutet, dass die Variablen im oberen Bereich einen stärkeren Einfluss auf die Variablen im unteren Bereich haben. Als Beispiel hat die Variable Führung Einfluss auf alle darunterliegenden Variablen, also Mission und Strategie, Management, Organisationskultur, Struktur, Arbeitsklima, System, Arbeitsanforderungen und individuelle Fertigkeiten, Motivation, Individuelle Bedürfnisse und Werte und Unternehmensperformance s. Abbildung 2 (Modell of Organizational Performance and Change). Die Autoren betonen, dass die Komponenten, deren Kausalitäten und Reihenfolgen in ihrer praktischen Arbeit entstanden seien: „The components of the model and what causes what and in what order, on the other hand, have evolved from our practice“ (Burke & Litwin, 1992, S. 524).
+Es handelt sich um ein Modell mit systemorientierten Ansatz, mit input Variable EXTERNAL ENVIRONMENT, output Variable INDIVIDUAL AND ORGANIZATIONAL PERRFORMANCE, die verbleibenden Dimensionen repräsentieren die throughput Variablen. Die Feedback Schleifen gehen in beide Richtungen: d.h. die Performance der Organisation beeinflusst die äußere Umgebung durch Produkte und Serviceleistungen der Organisation. Die Performance wiederum wird durch die äußere Umgebung beeinflusst, z.B. gesetzliche Regularien. Ganz allgemein wird ein Change Prozess durch die äußere Umgebung ausgelöst (Burke & Litwin, 1992, S. 527 ff). 
+Bei den EXTERNAL ENVIRONMENT Variablen handelt es sich um alle Faktoren, die von außen gegeben sind und einen Einfluss auf die Performance und Leistung der Organisation haben. So sind Marktplätze, die finanzielle Weltlage, und politische Umstände Einflussfaktoren. Der primäre Zweck der Organisation wird durch die Dimension MISSION beschrieben. Die STRATEGY entspricht der Vorgehensweise der Organisation, wie die Mission zu erreichen ist. Bei der Dimension LEADERSHIP wird das Verhalten der Führungskräfte betrachtet und wie dieses innerhalb der Organisation wahrgenommen wird. Zu der Variablen CULTURE gehören alle Verhaltensweisen, Werte und Konventionen innerhalb der Organisation. Greif definiert die Organisationskultur als die „Wahrnehmung und Bewertung der Organisation und ihrer Merkmale oder einzelner Abteilungen der Organisation durch ihre Mitglieder. [...] auch darüberhinausgehende Merkmalsbereiche, neben Bewertungen auch Beschreibungen, nicht nur indiv. Einschätzungen, sondern insbes. auch über alle Mitglieder einer Organisation aggregierte Werte“ (Greif, 2014). Demnach kann eine Änderung der Organisationskultur kann eine Änderung des Organisationsklimas bewirken. 
+Die STRUCTURE „[...] bildet das vertikal und horizontal gegliederte System der Kompetenzen ab, das gemäß dem instrumentalen Organisationsbegriff als genereller Handlungsrahmen die arbeitsteilige (Arbeitsteilung) Erfüllung der permanenten Aufgaben regelt. Die Organisationstruktur ist somit ein System von Regelungen in Organisationen“ (Organisationsstruktur, o.D.). Bei den MANAGEMENT PRACTICES handelt es sich um die Vorgehensweise des Managements bezüglich materieller und menschlicher Ressourcen. Zum Bereich SYSTEMS gehören standardisierte Strategien und Mechanismen im Zusammenhang des Belohnungssystems für Mitarbeiter, dem Informationssystem der Organisation, der Aufwandsabschätzung von Zielen und Budgetplanung und Strategien zur Rekrutierung von Mitarbeitern (Burke & Litwin, 1992, S. 532). Beim CLIMATE handelt es sich um ein „System gemeinsam geteilter Muster des Denkens, Fühlens und Handelns sowie der sie vermittelnden Normen, Werte und Symbole innerhalb einer Organisation“ (Organisationskultur, o.D.). Bei den TASK REQUIREMENTS AND INDIVUDUAL SKILLS/ABILITIES handelt es sich um die Arbeitsanforderungen, die den Fähigkeiten und Fertigkeiten der Arbeitnehmer gegenübergestellt werden. Dazu gehören geforderte Verhaltensweisen, um die Aufgaben effektiv zu erledigen und spezifische Skills und Wissen, welches die Personen haben müssen, um ihre zugewiesenen Aufgaben bestmöglich erledigen zu können. Das entspricht dem Person-Job Fit, d.h. der Passung zwischen den Merkmalen der Arbeitsaufgabe und den Fähigkeiten und Fertigkeiten des Arbeitsnehmers. (Burke & Litwin, 1992, S. 533) und (Marcus, 2012, S. 48). Bei den INDIVIDUAL NEEDS AND VALUES handelt es sich um die individuellen Bedürfnisse und Werte der Mitarbeiter der Organisation. Die Bedeutsamkeit individueller und organisationaler Ziele bestimmt die MOTIVATION (Burke &, Litwin, 1992, S. 533). Die Dimension INDIVIDUAL AND ORGANIZATIONAL PERFORMANCE steht für das Ergebnis, die Wirkung und Folgen der Anstrengungen und Leistungen der Organisation. Dazu gehören die Produktivität, die Kundenzufriedenheit, der Profit und die Qualität der Organisationsleistung.
+  
+ 
+Abbildung 2 Modell of Organizational Performance and Change (Quelle: Burke & Litwin, 1992, S. 528)
+Veränderungen erster und zweiter Ordnung
+	Klimmer (2007, S. 204) erklärt das Anpassungen die kontinuierlich verlaufen einen evolutionären Charakter haben. Sie sind hinsichtlich der Komplexität und Intensität beschränkt. Objekte des Wandels erster Ordnung sind Strukturen, Prozesse, Ressourcen, Systeme, Ziele und Strategien. Wenn es sich um „einschneidende, paradigmatische Veränderungen ... (handelt,) die die gesamte Organisation umfassen und diskontinuierlich und revolutionär erfolgen“ (Klimmer, 2007, S. 204) spricht Klimmer von Wandel zweiter Ordnung. „Diese Art von Veränderung wird gelegentlich auch als Transformation bezeichnet“ (Klimmer, 2007, S. 204). Objekte des Wandels zweiter Ordnung sind Einstellungen, Fähigkeiten, Verhalten, Werte und Überzeugungen. 
+
+Transaktionale und transformationale Dimension
+	Burke und Litwin unterteilen die Dimensionen des Kausalmodells in tansaktionale und transfomationale Variablen. 
+Änderungsanforderungen der transformationalen Dimensionen werden durch äußerliche Umstände erzwungen, beispielsweise wenn die Organisation wettbewerbsfähig bleiben will, es technologische Neuerungen gibt, oder gesetzliche Bestimmungen umgesetzt werden müssen. Zu den transformationalen Variablen gehören: EXTERNAL ENVIRONMENT, LEADERSHIP, MISSION AND STRATEGIY, ORGANIZATIONAL CULTURE, INDIVIDUAL AND ORGANIZATIONAL PERFORMANCE.
+Bei den Transaktionalen Variablen handelt es sich um die verbleibenden Variablen des Modells. Es sind Änderungen im aktiven Tagesgeschäft mit Ziel von Prozessoptimierungen.  „These factors concern more of the day-to-day operations (transactions) of the organization, and for any change there we would use terms such as continuous improvement, evolutionary, and selective, rather than weeping” (Burke, 2011).
+Die Veränderungen im Bereich transformationaler Variablen sind assoziiert mit der Führung, wohingegen der transaktionale Change mit dem Aufgabenbereich des Managements gekoppelt ist. Änderungen der transformationaler Ebenen werden dem Wandel 2. Ordnung zugeteilt, wohingegen Prozesse die die Variablen der transaktionalen Ebene betreffen, zu einem Wandel 1. Ordnung gehören. Die optimale Mischung der Führungsstile unterstützt die Reduktion von Widerständen. Zu Beginn ist eher transformatorische Führung gefragt, um den Wandel zu initiieren, zu motivieren und zu inspirieren. Im weiteren Prozessverlauf gelingt es dann mit Hilfe der transaktionalen Führung den Wandel effizient zu gestalten (Lauer 2014, S. 90).
+
+Transformatorische Führungseigenschaften
+Beim transformatorischen Führungsstil stehen die übergeordneten Ziele und Werte der Organisation im Vordergrund. Die Führungskraft versucht die Mitarbeiter durch intrinsische Motivation und der Transformation von Werten und Einstellungen, weg von egoistischen oder individuellen, hin zu langfristigen und übergeordneten Zielen zu bewegen. Dabei zeichnet sich das Führungsverhalten durch Vorbildfunktion und Ausstrahlung, inspirierende Motivation, Anregungen und individuelle Unterstützung aus. Führungsinstrumente sind: Vertrauen, nachfragen: „was“ und „warum“. Emotionen spielen eine große Rolle. 
+Transaktionale Führungseigenschaften
+Der transaktionale Führungsstil zeichnet sich durch eine analytische, sach-orientierte, planende und kontrollierende Vorgehensweise aus. Seine Führungsinstrumente sind: Kontrolle, nachfragen: „wie“ und „wann“, hierbei steht das rationale Handeln im Vordergrund (Lauer, 2014). 
+Bei der Unterscheidung in transaktionale und transformatorisch Führung wird auch der Unterschied zwischen den Managementaufgaben und denen des Leaderships deutlich. Leadership ist transformatorische Führung mit dem Führungsstil: kommunikativ, motivierend, inspirierend und Sinn vermittelnd. Wohingegen der Stil des  Managements analytisch, sach-orientiert, planend und kontrollierend ist. (Lauer, 2014, S. 87) 
+In einem Artikel des Harvard Business Manager weist Ashkenas darauf hin, dass „Trotz ... Tausenden von Büchern zum Thema (Change-Management) (bei Amazon sind es mehr als 83.000!) zeigen die meisten Studien, dass immer noch zwischen 60 und 70 Prozent aller Change-Projekte in Unternehmen scheitern“ (Ashkenas, 2013). In den Vortragsfolien von Mettig und Hermann werden Widerstände als einer der Hauptgründe für das Scheitern von Change Projekten angegeben (Mettig & Hermann 2017, Folie 78). 
+
+Widerstände bei Change Prozessen
+Alexandra Schichtel definiert Widerstand als „all jenes Verhalten, das sich – vom Standpunkt des Veränderungsbefürworters aus betrachtet – gegen die Veränderung richtet“ (Schichtel, 2016, S. 373). Gründe für Widerstände sind sehr vielfältig beispielsweise schlechten Erfahrung in der Vergangenheit (Berner, 2010, S. 18), Einschränkung der Handlungsfreiheit, Überforderung, individuelle Motive, Fehlende Transparenz, fehlenden Kompetenzen bezüglich der neuen Anforderungen und Aufgaben. Als Handlungsanweisungen für Widerstände werden von Kotter und Lauer folgende Aspekte genannt: Kommunikation & Transparenz, Partizipation, Startmotivation schaffen, Orientierung geben, Qualifizierungsmaßnahmen anbieten, Sicherheit erzeugen, jeden Fortschritt würdigen und feiern, das Alte würdigen, Prozess- und Zielmotivation schaffen, Transaktionale und transformatorische Führung (Kotter, 2016; Lauer, 2014).
+
+Anwendungsteil
+Im Jahre 2017 wollte das Startup Unternehmen alias.com den europäischen Markt erobern. Die sehr komplizierte Maschinenlandschaft zur Produkterstellung war Anfang 2017 aufgestellt und erste ShowAlias wurden produziert. Die Internetpräsenz war schon 2016 gegeben und 2017 nochmals optimiert worden. Bewerbungen für die unterschiedlichsten Awards liefen. Ende 2017 entstand die ernüchternde Einsicht, dass noch kein einziges Produkt für den Kauf erstellt und kein einziger zahlender Kunde gewonnen war.  Ähnliche Produktideen zeigten sich auf dem Markt und nicht nur national, sondern auch internationale Unternehmen etablierten sich mit gleichartigen Produkten. Zudem schilderte die Geschäftsführung eine enorme Arbeitsverdichtung mit minimaler Effizienz und Effektivität. Die Geschäftsleitung konstatierte, dass viele Aufgaben gar nicht oder doppelt erledigt wurden. Hinzu kam, dass die Rollenfindung innerhalb des Unternehmens zu Unmut und Unzufriedenheit bei den Angestellten führten. Typische Aussagen der Geschäftsführung waren: „Ich warte jetzt schon seit 2 Wochen auf die Ergebnisse des Meetings und habe keine Lust mehr erneut nachzufragen, dann mache ich es eben selbst.“ Typische Aussagen von Mitarbeitern waren: „Wieso hast du das denn jetzt nochmal gemacht, das habe ich doch schon lange erledigt. Die Unterlagen liegen in der Cloud im entsprechenden Ordner.“ Oder „Wieso macht der das denn jetzt, das ist doch mein Aufgabenbereich.“ 
+Der Konkurrenzdruck des startup stieg von Tag zu Tag.  Alias.com musste so schnell wie möglich die Gründe für die Performanceeinbußen herausfinden und beheben, um überhaupt noch eine Chance auf dem sich extrem schnell entwickelndem Markt zu haben.
+Alias.com hatte sich die folgenden Zieldimensionen gesetzt: das startup wollte Kunden weltweit begeistern und ein Vorbild in Sachen Innovation, Design und Umwelt sein. 
+Der Aufbau der Organisation kann der Abbildung 3 (Organisationsstruktur ALIAS.COM) entnommen werden. Die Organisation war mit zwei Geschäftsführern auf zwei Standorte verteilt. An Standort eins befanden sich neben dem Geschäftsführer drei Mitarbeiter die sich aus dem Aufgabenpool Marketing, Design, Projektleitung, Projektmanagement, Einkauf und Vertrieb Aufgaben selbständig zuteilten. Standort zwei hatte vier Mitarbeiter, wovon drei Mitarbeiter sich analog selbständig aus dem Aufgabenpool bedienten. Zusätzlich war an Standort zwei das Werk, in dem die Produktproduktion stattfand, mit einem Leiter und Personalverantwortung für die Werksmitarbeiter verortet.  
+
+ 
+Abbildung 3 Organisationsstruktur ALIAS.COM (Quelle: Eigene Darstellung)
+Das Burke-Litwin Kausalmodell wurde für die Analyse des Änderungsvorhabens eingesetzt. Dafür wurden die im Modell beschriebenen Dimensionen in dem Startup Unternehmen analysiert. Es gab Interviews mit allen Mitarbeitern bei denen alle Dimensionen bezüglich ihrer positiven wie auch hinderlichen Faktoren besprochen wurden. Die unterschiedlichen Angaben wurden dann ausgewertet, gewichtet und Überbegriffen zugeordnet. 
+
+Analyse der Dimensionen des Burke-Litwin Kausalmodells
+Im Folgenden werden die einzelnen Variablen mit ihren positiven und negativen Aspekten dargestellt:
+Äußere Umgebung: Das startup steht für Innovation und Umweltbewusstsein, zwei Aspekte, die in der heutigen Zeit sehr positiv goutiert werden. Problematisch ist der sich rasant entwickelnde Weltmarkt und die stetig steigenden Einflüsse des Internets auf Faktoren wie Vertrieb und Marketing. Das die Markteinführung trotz hohem Personalbestand und funktionierendem Produktionswerk im Jahr 2017 nicht stattgefunden hat, ist Grund für die Initiierung eines Change Prozesses. 
+Mission und Strategie: Positiver Faktor ist die Mission des Unternehmens: „Future is alias“. Als positiv ist auch zu vermerken, dass Strategien zur Umsetzung der Mission existieren. Es sind Messeauftritte in unterschiedlichen Städten geplant. Zudem werden Marketingaktionen online wie offline via Marketingplan strategisch angegangen. Ein fehlendes Corporate Design und auch eine fehlende Corporate Identity sind negativ zu bewerten.
+Führung: Die Befragungen der Mitarbeiter zeigt, dass die Führung als nicht optimal angesehen wird. Gründe hierfür sind ein chaotisch empfundener Führungsstil, ständig wechselnde Ziele und sich teilweise täglich verschiebende Priorisierungen. Das Arbeitsklima wird von den Mitarbeitern wie auch der Geschäftsführung hingegen als sehr positiv bewertet. 
+Organisationskultur: Die Organisationskultur zeichnet sich laut Mitarbeiter vor allem durch die Generierung vieler kreative Ideen aus, die allerdings in keiner genaueren Analyse bzgl. ihrer Tauglichkeit untersucht werden. Zudem werden viele Ideen ohne Potentialprüfung verworfen. 
+Management: Das Management zeichnet sich durch eine freundliche und unterstützende Arbeitsweise aus, obwohl die Mitarbeiter von einem nicht existierenden Management sprechen. Das äußert sich laut der Mitarbeiter darin, dass keine Entscheidungen gefällt werden und realiter keiner geführt fühlt. Typische Aussagen von Mitarbeitern sind: „Es ist einfach chaotisch und was wer macht ist nicht klar geregelt. Ich mache das, von dem ich denke, dass es gerade sinnvoll ist.“ 
+Struktur: Bei näherer Betrachtung zeigt sich, dass in dem Unternehmen keine klare Struktur zu erkennen ist. Dies wird als sehr negativer Aspekt mit in das Modell aufgenommen. 
+System, Richtlinien und Workflows: Auch diese Dimension wird von den Mitarbeitern als defizitär beschrieben. Es wird konstatiert, dass Standards gänzlich fehlen und Absprachen oft nicht eingehalten werden. Workflows für existierende Prozesse sind weder in Planung noch angedacht.  
+Arbeitsklima: Das Arbeitsklima wird als freundlich und unterstützend beschrieben. Die Positionskämpfe in der Geschäftsleitung werden negativ wahrgenommen, da die Aufgabenbereiche nicht klar zugeteilt sind, und unliebsame Aufgaben liegen bleiben. Dafür werden viele Energie- und Zeitressourcen verschwendet. 
+Individuelle Bedürfnisse und Werte: Durch die vielen Verantwortlichkeiten und Entwicklungsmöglichkeiten sind in der Dimension nur positive Faktoren vermerkt. 
+Motivation: Die Mitarbeiter sind äußerst motiviert und bewältigen die Aufgaben mit Spaß und Freude. Negativ beurteilen sie die schlechte Bezahlung, das hohe Arbeitsaufkommen, fehlende Software und die Einführung eines Zeiterfassungssystems, wobei ein Großteil der Mitarbeiter das Zeiterfassungssystem entgegen den Anweisungen nicht benutzt. Dazu eine Aussage die mehrfach getätigt wurde: „Interessiert doch eh keinen, und warum soll ich dann noch Zeit damit verbringen meine Tätigkeiten darin einzutragen.“ 
+Arbeitsanforderungen und individuellen Fähigkeiten: Die Mitarbeiter aus der Produktion äußern großen Unmut bzgl. der Unterstützung durch Fortbildung oder praktische Übungen für die existierenden Aufgaben. Es gibt viele Aufgaben die sie mit ihrem derzeitigen Kenntnisstand nicht bewältigen können. Ein Budget für Schulungen oder Einweisungen existiert nicht, wenn die Mitarbeiter Hilfestellungen benötigen, müssen sie diese aus eigener Tasche bezahlen. 
+Individuelle Bedürfnisse und Werte: Die Dimension ist ausschließlich mit positiven Aspekten belegt. Die Mitarbeiter schildern eine hohe Verantwortlichkeit für ihre Aufgaben. Die Aufgabenbereiche entstehen erst noch, wodurch viel Eigeninitiative und Selbstverwirklichung gegeben ist. 
+Individuelle und Unternehmensperformance: Die aktuelle Performance des Startups ist ausschließlich negativ zu bewerten. Die Mitarbeiter beklagen lange Arbeitszeiten und unzählige Überstunden, während die Geschäftsleitung sich sorgt, dass extrem hohe Unternehmenskosten anlaufen und bisher keine Kunden gewonnen wurden.  Eine grafische Übersicht der Ergebnisse der Befragung der Analysephase findet sich in Abbildung 4 (Organisationsdiagnose mit Burke-Litwin Kausalmodell). 
+
+ 
+Abbildung 4 Organisationsdiagnose mit Burke-Litwin Kausalmodell (Quelle: Eigene Darstellung in Anlehnung an Burke & Litwin, 1992, S. 528)
+
+
+Interventionen basierend auf der Analyse des Burke-Litwin Kausalmodells
+Auf der Grundlage einer mit dem Burke-Litwin Kausalmodell vollzogenen Analyse im Beispielunternehmen, konnten Interventionen insoliert werden, welche bei der Realisierung der originären Ziele des Unternehmens hilfreich sind. 
+Die vornehmlichen Ziele sind eine Kostenreduktion, Minimierung der Durchlaufzeiten und Vermeidung der Mehrfachvergabe von Aufgaben. In Bezugnahme auf das Schichtenmodell von Vahs und Weiand (2010, zitiert nach Koch, 2011, S. 15) zur Tiefe eines Wandels, handelt es sich hierbei um einen Wandel im Bereich der Restrukturierung (Reorganisation) zur Optimierung von Ressourcen und der Verbesserung von Abläufen und dem Aufbau einer Hierarchie. Wie von Steinle, Eggers und Ahlers (2008, zitiert nach Koch, 2011, S. 17) ist das übergeordnete strategische Ziel des Unternehmens die „Erhöhung der Wettbewerbs- und Überlebensfähigkeit“. Die von der Geschäftsführung angegebenen Unterziele sind:
+-	Effizienzsteigerung 
+-	Erhöhung des Arbeitsdurchsatzes
+-	Minimierung von Rollenkonflikten 
+-	Optimierung der Prozessqualität
+Im Burke-Litwin Kausalmodell werden nun alle negativen Faktoren bezüglich ihres Einflusses auf die Unternehmensperformance betrachtet.  Dabei werden Antworten gefunden zu der Frage: Welche Dimensionen müssen wie verändert werden? Das Modell zeigt neben den Dimensionen die Abhängigkeiten der einzelnen Variablen, so dass Auswirkungen von Change Maßnahmen teilweise vorhersehbar werden. 
+Als Beispiel einer möglichen Maßnahme wird an dieser Stelle die ganz oben angesiedelte Variable Führung betrachtet. Alle Änderungen bzgl. Interventionen, die auf diese Dimension einwirken, beeinflussen kaskadenartig auch die nachgeordneten Variablen: Struktur, Management, System, Organisationskultur und Mission und Strategie. Führt nun eine Interventionsmaßnahme zu einer Optimierung der Führungsqualität des Managements, so wirkt sich dies laut Kausalmodell bei den folgenden Variablen so aus: 
+Struktur: Durch die Kompetenzerweiterung des Managements zum Thema Führung werden notwendige Entscheidungen unmittelbar getroffen. Die Führung verliert ihre Angst Fehler zu machen und gibt klare Strukturen vor. Die Mitarbeiter können sich auf ihre Aufgaben konzentrieren und verlieren sich nicht mehr im Chaos, wodurch eine Effizienzsteigerung sowohl qualitativ als auch quantitativ entsteht. 
+Mission und Strategie: In dem Bereich sind wichtige Entscheidungen bzgl. des Corporate Design und der Corporate Identity zu fällen. Durch die Intervention wird das Management handlungsfähig und fühlt sich befähigt Entscheidungen zu treffen und deren Umsetzung stringent zu verfolgen.  
+System: Die Führung legt Richtlinien fest und initiiert eine Ausarbeitung von Workflows, beispielsweise wie der Vertrieb die Kundenansprache durchführt, welche Medien verwendet werden, in welchem Abstand potentielle Kunden kontaktiert werden, etc. Desweiteren erhalten die Mitarbeiter den Auftrag so viele Arbeitsabläufe wie möglich zu standardisieren, so dass keine Zeit mehr mit dem „WIE“ verbracht werden muss. 
+Arbeitsklima: Die Führungsqualitäten helfen dabei die Mitarbeiter entsprechend ihrer Qualitikationen einzusetzen. Die Rollen werden klar verteilt. Durch die Rollenverteilung werden Ressourcen frei, da Doppelarbeiten unterbunden werden und die Positionierungsstreitereien untereinander wegfallen. 
+Organisationskultur: Hohe Führungsqualitäten des Managements führen zu klaren Strukturen und unterbinden Unstrukturierte Arbeitsweisen, wobei Workflows und Richtlinien dabei helfen die vielen Ideen zu sichten, zu prüfen und ggf. für neue Maßnahmen im Bereich der Strategien zu verwenden. 
+Letztlich hat die Steigerung der Führungsqualität des Managements einen Einfluss auf die individuelle und Unternehmensperformance. Eine Darstellung über die Auswirkung der Interventionsmaßnahme Führung kann Abbildung 5 (Burke-Litwin Kausalmodell Simulation einer Intervention) entnommen werden.
+Bei der Variablen Führung handelt es sich um eine Variable im Bereich der transformationalen Dimension. Daher ist erstrebenswert einen transformationalen Führungsstil auszubilden, der komplexen Veränderungen von Werten, Überzeugungen und Einstellungen der Organisation unterstützt. 
+
+ 
+Abbildung 5 Burke-Litwin Kausalmodell Simulation einer Intervention (Quelle: Eigene Darstellung in Anlehnung an Burke & Litwin, 1992, S. 528)
+Diskussion 
+Für eine erste Analyse während des Change Prozesses ist das Burke-Litwin Kausalmodell gut geeignet, da es neben den unterschiedlichen Dimensionen auch deren hierarchische Abhängigkeiten aufzeigt. Nach genauer Betrachtung der unterschiedlichen Dimensionen und einer Mitarbeiterbefragung kann eine gute Ausgangsdiagnose der Organisation erstellt werden. Nach der Organisationsanalyse ist es hilfreich das Modell hinzuzuziehen, wenn Interventionen in Bezug auf ihre Auswirkungen untersucht werden sollen. Auch wenn das Modell eine vereinfachte Sichtweise der Interdependenzen darstellt, macht der hierarchische Aufbau deutlich mit welchen Folgen für die abhängigen Variablen zu rechnen ist. Diese Folgen können bei der Planung des Change Prozesses Beachtung finden und bei der Auswahl der Interventionen hilfreich sein. Gleichzeitig ist das Modell sehr komplex und es bleibt schwierig zu beurteilen, welche Dimensionen sich in der Realität dann tatsächlich gegenseitig beeinflussen. Allerdings hat der Change Manager alle beteiligten Variablen im Blick und kann auf dem Prozesscontrolling basierend stets einen Abgleich bzgl. der relevanten Dimensionen durchführen. Das Modell kann auch in der Evaluationsphase integriert werden, da das Veränderungscontrolling mit Hilfe des Modells dokumentiert werden kann. Dadurch ist es möglich die einflussnehmenden Variablen stets im Fokus zu behalten. Wie schon das von mir besprochene Beispiel zeigt, sind die wechselseitigen Auswirkungen der einzelnen Dimensionen sehr weitreichend und nicht unbedingt vorhersehbar, da jede Dimension direkt oder indirekt mit jeder anderen Dimension verbunden ist. 
+
+Zusammenfassung, Fazit und Ausbilck
+Es zeigt sich, dass mittels des Burke-Litwin Kausalmodells nicht nur eine erste Diagnose des Unternehmens mit allen beteiligten Variablen durchgeführt werden kann, sondern zusätzlich auch Handlungsanweisungen erarbeitet werden können. Auch kann das Modell in der Evaluationsphase für das Veränderungscontrolling dienlich sein. Das Wissen um die Interdependenz der einzelnen Dimensionen und Aspekte wird mit dem Modell gut erfahr- und für einen Change-Prozess anwendbar. 
+Als Informatiker stellt sich mir die Frage ob der Change Management Prozess mit dem Burke Litwin-Kausalmodell durch eine Software unterstütz werden könnte. Im ersten Schritt könnte das Tool anonyme online Befragung aller Mitarbeiter des Unternehmens bezüglich der Dimensionen des Burke-Litwin Kausalmodells durchführen. Im Folgenden Schritt betrachtet der Change Manager das 3-Dimensional dargestellte Modell (beispielsweise via augmented Reality) und hätte die Möglichkeit die sich bedingenden Faktoren grafisch aufbereitet zu erfassen. Durch die grafische Aufbereitung ist das Modell beliebig komplex zu gestalten, alle Dimensionen können mit einbezogen werden ohne den Change Manager zu überfordern. Ein weiterer Aspekt des Programmes könnte eine Simulationsanwendung sein. Das bedeutet, dass der Change Manager überlegt in welcher Dimension eine Intervention Sinn macht und die Software darauf basierend zeigt, welchen Einfluss auf welche Variablen diese Änderung hätte. Zugleich könnte die Software als Controlling für den Change Prozess verwendet werden, so dass die durchgeführten Änderungen mit Einschätzung und Dokumentation des Change Managers gespeist würden. Wäre es dann auch noch so, dass es sich bei der Software um selbstlernende Software handeln würde, könnte diese auch für einen kontinuierlichen Verbesserungsprozess in dem Unternehmen eingesetzt werden. Durch die stetig hinzugefügten Aspekte der Dimensionen würde das Ergebnis des Programms immer differenzierter und passender bezüglich der von Todnem By. angesprochen Kontextbedingungen. 
+Vision 2030: Die Aufgabe des Change Managers besteht nur noch darin die aktuellen Daten der Change Prozesse in das Programm einzupflegen und vom Programm vorgeschlagene Maßnahmen in die Wege zu leiten. Eine mit künstlicher Intelligenz aufbereitete Datensammlung weltweilt liefert sehr differenzierte Problemlösungsvorschläge für jeden einzelnen Prozess. Gibt es dann 2030 noch Change Manager? Oder kann jedes Unternehmen ein solches Tool erwerben und sich basierend auf der künstlichen Intelligenz des Tools optimal entwickeln? Ich glaube nicht daran. Ich glaube, dass es zu immer wieder neuen und herausfordernden Kontextbedingungen kommt, die jedes Mal verschieden und sehr individuell sind. So individuell wie die Persönlichkeiten der Menschen, die in einem Unternehmen arbeiten. 
+
+
+
+
+
+
+ 
+Literaturverzeichnis
+Allmendinger, K. (2011). Change Management: Instrumente und Konzepte. 2. Auflage., Studienbrief der SRH Fernhochschule. Riedlingen. 
+
+Ashkenas, R. (2013, 10. Mai). Was sich ändern muss Abgerufen von http://www.harvardbusinessmanager.de/blogs/a-898305.html
+
+Berner, W.: Change! 15 Fallstudien zu Sanierung, Turnaround, Prozessoptimierung, Reorganisation und Kulturveränderung. Stuttgart: Schäffer-Poeschle, 2010
+
+Burke, W. W., & Litwin, G. H. (1992). A causal model of organizational performance and change. Journal of Management, 18(3), 523–545. 
+http://dx.doi.org/10.1177/014920639201800306
+
+Burke, W. W. (2011). Organization change: Theory and practice, 3rd ed. Thousand Oaks, CA: Sage Publications.
+
+Change Management. (n.d.). Springer Gabler Verlag (Herausgeber), Gabler Wirtschaftslexikon,  Abgerufen am 10.02.2018, von 
+http://wirtschaftslexikon.gabler.de/Archiv/2478/change-management-v9.html
+
+Greif, S. (2014). Organisationsklima. In M. A. Wirtz (Hrsg.), Dorsch – Lexikon der Psychologie (18. Aufl., S. 1134). Bern: Verlag Hogrefe Verlag.
+
+Hermann, K., & Mettig, T. (2017). Projekt & Change Management. [Foliensatz]. Abgerufen von https://www.mu-campus.de/pluginfile.php/52260/mod_resource/content/1/M_div_%20Projekt_Change%20Mangement_Foliensatz_2017.pdf
+
+Klimmer, M. (2007). Unternehmensorganisation. Eine kompakte und praxisnahme Einführung. (3. Auflage). Herne. NWB Verlag GmbH & Co. KG. 
+
+Koch, A. (2011). Change Management – Grundlagen. 1. Auflage., Studienbrief der SRH Fernhochschule. Riedlingen.
+
+Kotter, J. (2016). LEADING CHANGE. Wie Sie ihr Unternehmen in acht Schritten erfolgreich verändern. (4. Nachdruck.). München. VERLAG VAHLEN. 
+
+Lauer, T. (2014). Change Management Grundlagen und Erfolgsfaktoren. Berlin Heidelberg: Springer Gabler. 
+
+Marcus, B. (2012). Personalpsychologie: Kultur- und Sozialwissenschaften. Kurs 03425. Studienbrief der Fernhochschule Hagen. 
+
+Organisationsstruktur. (n.d.). In Springer Gabler Verlag (Herausgeber), Gabler Wirtschaftslexikon (11nd ed). Abgerufen am 03.02.2018, von 
+http://wirtschaftslexikon.gabler.de/Archiv/5359/organisationsstruktur-v11.html
+
+Organisationskultur. (n.d.). Springer Gabler Verlag (Herausgeber), Gabler Wirtschaftslexikon, Abgerufen am 03.02.2018, von 
+http://wirtschaftslexikon.gabler.de/Archiv/11090/organisationskultur-v8.html
+
+Schichtel, A.: Change Management für dummies. Weinheim: WILEY-VCH Verlag GmbH & Co. 2016.
+
+Todnem By, R. (2017). Change Management entzaubert, Organisationsentwicklung Zeitschrift für Unternehmensentwicklung und Change Management, 2017(3), 18-20.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Anhang – Versicherung
+
+
+Versicherung
+
+
+Name:	Dagmar Rostek
+Matrikel-Nr.:	2004169
+Studiengang:	Angewandte Psychologie mit Schwerpunkt Wirtschaft
+
+
+
+Hiermit versichere ich, dass ich die vorliegende Hausarbeit mit dem Thema
+
+Burke-Litwin-Kausalmodell
+
+ohne fremde Hilfe erstellt habe. Alle verwendeten Quellen wurden angegeben. Ich versichere, dass ich bisher keine Hausarbeit mit gleichem oder ähnlichem Thema an einer anderen Hochschule eingereicht habe.
+
+
+
+Datum:	04.03.2018	Unterschrift: 	 
+
+
+

@@ -1,0 +1,445 @@
+Hausarbeit
+
+
+Themenstellung: Kundenbefragung zur Ermittlung des Leistungsumfangs eines Minimal Marketable Products zur Einführung von eLearning in Klein und Mittelständigen Unternehmen.
+
+
+
+
+eingereicht am 28.12.2019 über den eCampus
+Modulverantwortlicher Hochschullehrer:
+Prof. Dr. Anja Tausch und
+Prof. Dr. Manfred Mühlfelder
+SRH Fernhochschule
+
+
+
+Modul: Empirische Forschung mit Betriebswirtschaft und Managementlehre 
+Studiengang: Wirtschaftspsychologie 
+
+
+
+von
+Dagmar Rostek
+Ackerstraße 10
+52074 Aachen
+Studiengang: Wirtschaftspsychologie 
+Matrikelnummer: 2004169
+ 
+
+Inhaltsverzeichnis
+ABBILDUNGSVERZEICHNIS	3
+GENDER-ERKLÄRUNG	4
+EINLEITUNG	5
+THEORETISCHE FUNDIERUNG	7
+1.1	DEFINITION MINIMAL MARKETABLE PRODUCT	7
+1.2	DEFINITION E-LEARNING	7
+1.3	DEFINITION ONLINE-BEFRAGUNG	8
+1.3.1	Vor- und Nachteile einer Online-Befragung	8
+1.3.2	Zu beachtende Aspekte bei der Online-Befragung	9
+1.3.3	Bei der Online-Befragung stehen unterschiedliche Antwortformate zur Verfügung	11
+1.3.4	Gütekriterien eines online Fragebogens	11
+1.3.5	Das Forschungsdesign	12
+OPERATIONALISIERUNG	16
+1.4	INDIKATORENBILDUNG	16
+1.5	FRAGESTELLUNGEN	19
+PROJEKTPLAN	22
+1.6	KONZEPTION UND VORBEREITUNG	22
+1.7	DURCHFÜHRUNG UND AUSWERTUNG	24
+1.7.1	Der Pretest	25
+1.7.2	Datenanalyse	26
+FAZIT	27
+ANHANG – FRAGEBOGEN	29
+LITERATURVERZEICHNIS	32
+VERZEICHNIS FÜR INTERNETQUELLEN	32
+ANHANG – VERSICHERUNG	35
+
+
+ 
+Abbildungsverzeichnis
+Abbildung 1: Befragungsablauf (Eigene Darstellung in Anlehnung an Reinhardt: 2015, S. 13)	15
+Abbildung 2 Projektablauf Fragebogenbefragung - eigene Darstellung	24
+Abbildung 3 Beispiel Grafische Aufbereitung der Daten, Online-Befragung 2019, Frage 1 (Eigene Darstellung)	27
+Abbildung 4 Fragebogen - Einleitender Text – Darstellung im Online-Befragungstool	29
+Abbildung 5 Fragebogen Fragestellung 1	29
+Abbildung 6 Fragebogen - Fragestellung 1 – Darstellung im Online-Befragungstool	30
+Abbildung 7 Fragebogen - Fragestellung 2	30
+Abbildung 8 Fragebogen - Fragestellung 3	30
+Abbildung 9 Fragebogen - Fragestellung 4	30
+Abbildung 10 Fragebogen - Fragestellung 5	31
+Abbildung 11 Fragebogen - Fragestellung 6	31
+Abbildung 12 Fragebogen - Fragestellung 7	31
+Abbildung 13 Fragebogen - Fragestellung 8	31
+ 
+Gender-Erklärung
+In dieser Hausarbeit wird aus Gründen der besseren Lesbarkeit die Sprachform des generischen Maskulinums verwendet. Es wird an dieser Stelle darauf hingewiesen, das Weibliche und anderweitige Geschlechteridentitäten dabei ausdrücklich mitgemeint werden, soweit es für die Aussage erforderlich ist. 
+ 
+Einleitung
+„Es geht darum möglichst rasch ein möglichst gutes Produkt auf den Markt zu bringen. Das Produkt muss schlank sein. Es muss die Kernfunktion enthalten, mehr nicht. Aber diese Kernfunktionen müssen perfekt sein“ (Prismatic-Gründer Bradford Cross). Ganz anders verlief die Softwareentwicklung vor zwei Jahrzehnten. So war es im Anschluss an mein Informatikstudium noch üblich, ein Softwareprodukt vollumfänglich zu entwickeln, bevor es der Zielgruppe präsentiert und verkauft wurde. Häufig zeigte sich, dass die so entwickelte Software, viele der beim Kunden vorherrschenden Szenarien nicht mitbedacht hatte, was folglich die erwartete Begeisterung in Grenzen hielt. Um dennoch den gewünschten Absatz zu erzielen, waren teure zusätzliche Entwicklungen keine Seltenheit. Auch wenn „E-Learning Anbieter in Deutschland (...) weiterhin auf Wachstumskurs“ (mmb Branchenmonitor E-Learning Wirtschaft 2018, S.3) sind und die EdTech Branche bei „einem Umsatzwachstum von knapp 10 Prozent im Vergleichszeitraum 2016 auf 2017 liegt (...) [und] damit deutlich über der Gesamtwirtschaft, die im gleichen Zeitraum ein Plus von 2,2 Prozent verzeichnete“ (mmb Branchenmonitor E-Learning Wirtschaft 2018, S.3), wird der Kampf um die Kunden in der EdTech Branche von Jahr zu Jahr härter. Eine Begründung liegt in der steigenden Bereitschaft, auf Softwareanbieter nicht aus Deutschland zurückzugreifen. Der Abnehmermarkt für digitale Lösungen für die betriebliche Bildung wächst, der Anbietermarkt auch und damit der Kampf um die Kunden. Um so wichtiger ist es, für Unternehmen nicht am Markt vorbei zu entwickeln, sondern dem Kunden genau die Lösung zur Verfügung zu stellen, die sie brauchen. Am besten eine Lösung, die kein Wettbewerber anbietet. Um die von Bradford Cross perfekten Kernfunktionen zu ermitteln bestehen viele Ansätze, die mittlerweile in vielen modernen Softwareunternehmen Anwendung finden. Agile Ansätze involvieren Kunden direkt in die Produktentwicklung. So sehen Vorgehensmodelle wie Scrum  und Kanban vor, frühzeitig Rückmeldungen vom Kunden zu erhalten, um genau die Kernfunktionen zu integrieren, die einen Mehrwert für die Kunden darstellen. 
+
+Neben dem stetig boomenden Markt der Wettbewerber und wachsenden Abnehmerkreis für digitale Lösungen für die betriebliche Bildung, zeigt sich ein Sachverhalt, der im eLearning Guild Research von 2019 beschrieben wird. Von 961 Befragten nutzen 42% mindestens 3 Tools zur Erzeugung von E-Learning Inhalten, 30% gebrauchen 2 Systeme und nur 28% Prozent kommen mit der Verwendung von einem Tool aus. Von 74,3% der Befragten wurde der Sachverhalt damit begründet, dass das derzeitige Tool nicht die Features  zur Verfügung stellt, die benötigt werden (Bozarth, 2019). Einen möglichen Erklärungsansatz, liefert das von Towards Maturity entwickelte Reifegradmodell. Das Modell klassifiziert den Reifegrad eines Unternehmens basierend auf Kriterien, unter anderem der Erfahrung des Unternehmens mit dem Einsatz von E-Learning. So liegt beispielsweise der Fokus von Unternehmen, die mit E-Learning starten, auf der Unterstützung von formalem Lernen, wohingegen erfahrenere Unternehmen den Fokus auf Performance Support  legen (Towards Maturity, 2018). 
+
+In dieser Arbeit sollen, anhand eines Online Fragebogens, die Entscheidungskriterien für die Auswahl von (Software-)Tools für den Einsatz von E-Learning in Unternehmen ermittelt werden. Dabei liegt der Fokus auf Unternehmen, die keine Erfahrung mit der Integration von E-Learning in ihre betriebliche Bildung haben. Es wird ein fiktives Unternehmen betrachtet, das E-Learning Software zur Unterstützung der betrieblichen Bildung anbietet. Das Unternehmen beschließt, das Produktportfolio zu erweitern, mit dem Ziel ein schlankes Produkt auf dem Markt zu positionieren. Das neue Produkt soll ein minimales Set an Kernfunktion für die Zielgruppe perfekt abbilden. 
+
+Da es sich für das Unternehmen um eine neue Zielgruppe handelt, und das Produkt entgegen der im E-Learning Bereich üblichen Feature Schlacht, in Richtung keep it simple stupid  agiert, entscheidet sich das Unternehmen 6 Monate vor geplantem product launch , eine online Befragung durchzuführen. Die Ergebnisse sollen direkt in die Produktentwicklung einfließen und Hinweise für die Produktpositionierung wie auch Marketingmaßnahmen liefern.
+
+Im zweiten Kapitel werden theoretische Grundlagen anhand aktueller Forschungserkenntnisse beleuchtet. Relevante Begrifflichkeiten, Definitionen und Theorien, die Forschungsfrage und das Forschungsdesign werden erläutert. Im dritten Kapitel folgt die Vorstellung der Fragestellungen mit Dimensionen und Items. Im Kapitel vier wird anhand des Projektplans aufgezeigt, wie das Vorgehen bei der Durchführung der Befragung aussehen würde. Da die Aufgabenstellung keine praktische Durchführung der Befragung beinhaltet, ist dieser Teil ausgeschlossen. Die Arbeit schließt mit einem Fazit und einer Reflexion. 
+Theoretische Fundierung
+Dieser Teil der Arbeit beschäftigt sich mit den theoretischen Grundlagen und Definitionen der relevanten Begriffe. Darüber hinaus werden Vor- und Nachteile des Forschungsdesigns der Befragung mittels Online Fragebogen näher beleuchtet. Hier werden die Begrifflichkeiten erklärt, die einen Einfluss auf die Konzeption des Online Fragebogens haben. 
+
+1.1	Definition Minimal Marketable Product
+Von einem Minimal Marketable Product (MMP) wird gesprochen, wenn das Produkt eine Marktreife hat, die einen minimalen Satz an Features, für die ausgewählte Zielgruppe, zur Verfügung stellt. 
+
+Da es sich bei dem Softwareprodukt, für das die Online-Befragung durchgeführt werden soll, um ein E-Learning Produkt handelt, das zur Unterstützung von informellem Lernen eingesetzt werden kann, werden die Begriffe kurz eingeführt. 
+
+1.2	Definition E-Learning
+Das Gabler Wirtschaftslexikon definiert E-Learning als „Unterstützung von Lernprozessen durch den Einsatz von Informations- und Kommunikationstechnologien“ (Kollmann, 2019). Die Variation von E-Learning Produkten ist immens. Schon 1924 existierte das erste E-Learning Produkt von dem Amerikaner SIDNEY L. PRESSEY, der eine Maschine entwickelte, die „eine Frage stellte und gleichzeitig vier Antwortmöglichkeiten anbot“ (Haslauer, 2009, S. 7). Heute sind dem E-Learning kaum Grenzen gesetzt. So existieren nicht nur Programme, die dem Lerner ermöglichen von überall, über beliebige Endgeräte, auf die Lernmedien zuzugreifen, sondern auch diverse Lernformate, die das formelle und informelle Lernen unterstützen. Formales Lernen ist zielgerichtet und häufig mit Qualifizierungen und Zertifizierungen verbunden. „Informelles Lernen ist jene Lernart, bei der sich ein Lernergebnis einstellt, ohne dass dies von vornherein bewusst angestrebt wird, und umfasst sowohl Erfahrungslernen wie implizites Lernen. Charakteristisch für informelles Lernen ist, dass es in der Arbeits- und Lebenswelt handlungsbasiert erfolgt, dabei aber nicht institutionell organisiert ist“ (Stangl, 2001). Software, die das informelle Lernen unterstützt, stellt dem Lernenden Wissen im Moment des Bedarfs zur Verfügung, so dass beispielsweise am Arbeitsplatz eine Aufgabe gelöst werden kann, ohne dass Kollegen um Hilfe gebeten werden müssen. 
+
+Um E-Learning innerhalb eines Unternehmens zur Verfügung zu stellen, werden einerseits die Inhalte benötigt, andererseits ein System, in dem diese Inhalte den Mitarbeitern zur Verfügung gestellt werden. Die Bereitstellung erfolgt häufig über Lernmanagementsysteme. Die benötigten Inhalte können von speziellem Anbieter eingekauft, oder innerhalb des Unternehmens eigens erstellt werden. Möchten die Unternehmen selbständig die Inhalte für die Mitarbeiter erstellen, benötigen sie eine Autorensoftware. Neuere Ansätze kombinieren die Funktionalität der Autorensoftware mit dem Lernmanagement System. Den Möglichkeiten sind kaum Grenzen gesetzt.
+
+1.3	Definition Online-Befragung
+Das GABLER Wirtschaftslexikon definiert Online-Befragung als „Befragung unter Benutzung des Internets“ (Onlinebefragung, 2018). Für die Durchführung von Online-Befragungen stehen diverse Möglichkeiten zur Verfügung. Beispielsweise kann eine E-Mail selbst als Online-Befragung genutzt werden, oder im Anhang der E-Mail ein Formular versendet werden. Die Antworten können in einem digital beschreibbaren Formular oder in der E-Mail selbst beantwortet werden. Darüber hinaus besteht die Möglichkeit, ein online Fragebogen zu nutzen, der die Antworten direkt in einer Datenbank speichert (Kuckartz et al., 2009). 
+Im Falle des fiktiven Unternehmens soll der online Fragebogen verwendet werden, um Aufschluss über das Minimalset an Features für das Minimal Marketable Produkt zu erhalten. Die Ergebnisse sollen zum einen helfen die notwendigen Features für den anstehenden Product Launch zu priorisieren, und darüber hinaus Aufschlüsse für die Produktpositionierung und Marketingmaßnahmen geben. Die Operationalisierung soll Aufschluss geben, welche Features für Unternehmen die E-Learning einführen notwendig sind, um deren betriebliche Bildungsszenarien bestmöglich zu unterstützen. Mit dem neuen Produkt soll das Marktsegment der klein- und mittelständigen Unternehmen, die E-Learning einführen, erschlossen werden.
+
+Allgemein gibt es, unabhängig von der Art der Online-Befragung, Vor- und Nachteile. 
+
+1.3.1	Vor- und Nachteile einer Online-Befragung
+Zu den Vorteilen der Online-Befragung zählen neben der Vereinfachung der Auswertung, dass mehr Personen erreicht werden können, die Geschwindigkeit bezüglich der Befragungsdurchführung erhöht ist, wie etwa durch die Kontaktaufnahme über E-Mail auch das die Kosten pro Erhebung gering sind. Einige online Befragungstools, wie beispielsweise Surveymonkey  bieten die Option an, dass die Umfrageergebnisse zur Verwendung in SPSS exportiert werden können. 
+Darüber hinaus sind Möglichkeiten gegeben, die Befragung interaktiv zu gestalten. Diverse Fragetypen und multimediale Präsentationsformen, sorgen auf spielerische Weise für Abwechslung (Treiblmaier, 2010, S. 7). Dadurch kann die Aufmerksamkeit der Befragten aufrechterhalten werden und die Interviewten können sofort Rückmeldungen auf ihre Eingaben erhalten. Zusätzlich besteht die Option, Fragestellungen basierend auf den Input von Vorabfragestellungen zu individualisieren. Ein Beispiel ist, die Fragen je nach Branchenzugehörigkeit bezüglich der Antwortoptionen anzupassen. Gekennzeichnete Pflichtantworten sorgen dafür, dass die Befragungsteilnehmer ein direktes visuelles Feedback darüber erhalten, welche Antworten obligatorisch sind. 
+
+Als Hauptbarriere benennen Befragte aus europäischen Unternehmen, des FMCG  Bereichs, zu 83%, das für die Nutzung des Internetkanals, eine mangelnde Repräsentativität gegeben ist (Theobald, Dreyer, Starsetzki, 2001, S. 163). Darüber hinaus nennen Oxley und Carnot (2001) die Barrieren: „unzureichender Penetration des Internets im Zielmarkt (66%), unklare Herkunft der Stichprobe (61%), fehlende Methodentests, welche die Vergleichbarkeit von neuen und alten Methoden belegen (52%), geringe Computerkenntnisse der Konsumenten (45%), mangelnde Sicherheit (26%) und unzureichenden Datenschutz (16%)“ (Oxley und Carnot 2001, zitiert nach: Treiblmaier, 2010, S. 8). 
+
+1.3.2	Zu beachtende Aspekte bei der Online-Befragung
+Auch für Teilnehmer von Online-Befragungen sind zielgruppenentsprechende Anreize zu wählen (Reinhardt, 2015, S. 12). Als Beispiel könnte für die Teilnehmer der Online-Befragung, das Produkt nach erfolgtem product launch, für 6 Monate kostenfrei zur Verfügung gestellt werden. Da es sich um ein cloudbasiertes Produkt (Cloud-First-Application ) handelt, braucht der Kunde keine Installation durchzuführen, die Logindaten für das Produkt können den Teilnehmern der Online-Befragung per E-Mail zugesendet werden. So entsteht weder auf Kundenseite ein Aufwand noch für die Bereitstellung der Zugänge. Einerseits sorgt der Anreiz dafür, dass Kunden das Produkt ausführlich Testen können. Andererseits besteht für das bereitstellende Unternehmen die Möglichkeit, innerhalb der Evaluierungsphase der Kunden, weitere Rückmeldungen und Hinweise für die Weiterentwicklung des Produktes zu erhalten, und natürlich besteht auch die Hoffnung die Testkunden als neue Kunden zu gewinnen. 
+
+Kuckartz et al. gibt an, dass „Online-Befragungen […] kürzer gestaltet werden [sollten], als herkömmliche Befragungen“ (Kuckartz, et al., 2009, S. 37). So werden „[m]ehr als 15 Minuten (...) kaum akzeptiert“ (Kuckartz, et al., 2009, S. 37). Auch sind für die Online-Befragungen klare Einladungen in Form eines Briefes oder E-Mail zu formulieren. Die Teilnehmer benötigen genaue Informationen, was mit der Befragung erreicht werden soll und warum ihre Teilnahme wichtig ist. In dem Fall der Online-Befragung ist besonders auf den Aspekt des Datenschutzes einzugehen, da die Daten in einer Datenbank vorgehalten werden. „Das Anschreiben sollte auch Zusicherung der Anonymität beinhalten und plausibel darstellen, was mit den Daten geschieht“ (Kuckartz et. al, 2010, S. 36).
+
+Laut Kuckartz et al. sind bei der Generierung der geschlossenen Fragen folgende Aspekte zu beachten: Die Sprache des Adressaten der Erhebung sollte Einfluss auf die Sprache der Fragen nehmen. Allerdings sollte weder ein Dialekt noch regionsgebundene Ausdrücke Verwendung finden. Fremdwörter oder doppelte Verneinungen sind zu vermeiden. Die Fragen sollten kurz, verständlich und präzise sein und keinen Interpretationsspielraum bieten. Es sollten nur genau die Informationen in die Fragestellungen einfließen, die absolut notwendig für die Beantwortung der Forschungsfrage sind und direkten Bezug zum Evaluationsgegenstand haben. Wertbesetzte Begriffe, suggestive Formulierungen und mehrdimensionale Fragen sind zu vermeiden. Bei mehrdimensionalen Fragen ist unklar, auf welchen Fragenteil geantwortet wurde. Ein Beispiel dafür ist die Frage: „Ist Ihnen eine einfach zu bedienende Software wichtig, oder ein einheitliches Bedienkonzept?“. Antwortet der Befragte mit ja, ist unklar, ob ihm vor allem einfach zu bedienende Software wichtig ist, oder ein einheitliche Bedienkonzept. Auch wenn „einfach“ zu bedienender Software ein einheitliches Bedienkonzept integrieren sollte, werden hier zwei Dimensionen miteinander kombiniert. Das kann beim Befragten zu Irritation führen, und macht die Auswertung für die Fragestellung unmöglich. Denn was für den Befragten das Entscheidungskriterium war, um auf die Frage mit ja oder nein zu antworten, verbleibt unklar. Die Antwortkategorien sollten sich nicht überlappen allerdings erschöpfend und präzise sein. Darüber hinaus sollten „die Folge der bestehenden Jasage-Tendenz [vermieden werden], indem (...) in Fragebatterien/Matrixfragen die Aussagen in unterschiedliche Richtungen“ gepolt werden (Kuckartz et al., 2009, S. 34). Darüber hinaus ist zu beachten, dass durch die Bereitstellung des Online-Fragebogens über das Internet Anforderungen an Webseiten übernommen werden müssen. Webseiten werden „eher gescannt als sorgfältig gelesen“ (Kuckartz et al., 2009, S. 34), daher kommt es bei unverständlichen oder komplizierten Sätzen schneller zum Abbruch. Ein weiteres Unterscheidungskriterium von Papierfragebögen im Gegensatz zur Online-Befragung ist, dass die Online-Befragung nicht in allen Tools unterbrochen werden kann. Ein Papierfragebogen kann zur Seite und später weiterbearbeitet werden, bei Online-Befragungen ist das abhängig von dem verwendeten Tool möglich oder nicht möglich. Daher ist die von Kuckartz et al. angegebene Zeit von 15 Minuten für die Bearbeitung einzuhalten. 
+
+1.3.3	Bei der Online-Befragung stehen unterschiedliche Antwortformate zur Verfügung
+Radiobuttons werden eingesetzt, wenn genau eine Antwortalternative ausgewählt werden soll. Checkboxen ermöglichen es, mehrere Antwortoptionen auszuwählen. Die Drag and Drop Option sorgt dafür, dass unterschiedliche Antwortoptionen in eine Reihenfolge gebracht werden können. So kann beispielsweise eine Priorisierung der Antworten durch die Befragten erfolgen. Freitextfelder stehen in unterschiedlichen Variationen zur Verfügung. Die Textlänge kann eingeschränkt, und eine Validierung der Eingabe integriert werden. Die derzeitige fünfstellige Postleitzahl ist eine Ziffernkombination, die mittels eines validierten Freitextfeldes überprüft werden kann. Drop-Down-Listen eigenen sich, um Antworten aus einer Menge an gegebenen Antwortoptionen auszuwählen. Es gibt dabei die Einfachauswahl und die Mehrfachauswahl. Matrixantworten sind so gestaltet, dass mehrere Fragen in einer Tabelle zusammengefasst sind. Damit können mehrere Fragen zu einem Themenbereich gestellt werden. (Kuckartz et al., 2010, S. 39, ff).
+
+1.3.4	Gütekriterien eines online Fragebogens
+Objektivität, Reliabilität und Validität werden als Gütekriterien empirischer Erhebungen genannt, die dazu dienen „die Qualität einer wissenschaftlichen Untersuchung festzustellen“ (Reinhardt, 2015, S. 14). Bei Onlinebefragungen müssen gleichermaßen „alle drei Gütekriterien bei empirischer Erhebung erfüllt sein“ (Treiblmaier, 2010, S. 6). Bei der Objektivität kann die Durchführungs- und Auswertungsobjektivität unterschieden werden. Beide Aspekte haben gemein, dass das Ergebnis nicht durch den Anwender oder individuelle Deutungen beeinflusst werden darf (Reinhardt, 2015, S. 14). „Die Reliabilität gibt die Zuverlässigkeit einer Messmethode an“ (Reinhardt, 2015, S. 15). Die Zuverlässigkeit kann durch Wiederholungen oder durch Paralleltest-Methode festgestellt und durch den Korrelationskoeffizienten ausgedrückt werden (Reinhardt, 2015, S. 15). Die Validität bezeichnet den „Grad der Genauigkeit, mit der ein Verfahren tatsächlich das misst oder vorhersagt, was es zu messen oder vorhersagen soll“ (Rammstedt, 2004, S. 16). 
+
+Zusammenfassung und Ableitung von Forschungsfragen
+In diesem Kapitel wurden die theoretischen Grundlagen beziehungsweise die Definitionen eines Minimal Marketable Products, von E-Learning Software und relevanter Aspekte von Online-Befragungen vorgestellt. Im folgenden Kapitel wird eine Online-Befragung entwickelt, mittels dessen die Forschungsfrage beantwortet werden soll:
+Welche minimalen Anforderungen (MMP) bestehen, für eine Autorensoftware im E-Learning Bereich, für klein- und mittelständige Unternehmen, die keine Erfahrung mit E-Learning und Autorensoftware haben? 
+Die Fragestellung integriert die folgenden Aspekte:
+•	Was betrachtet der Kunde als einfach und notwendig für die Bedienung der Software? 
+•	Haben Faktoren bezüglich der Qualität der erstellten Lernmedien eine Relevanz? 
+•	Welche Voraussetzungen für die Technologien, Sicherheit und Kaufabwicklung bestehen?
+•	Welche Faktoren bezüglich Zukunftssicherheit haben einen Einfluss auf den Erwerb der Software?
+
+Für die Online-Befragung wurden ausschließlich geschlossene Fragen verwendet, um präzise Antworten zu erhalten. Jede Fragestellung beinhaltet ein Freitextfeld mittels dem es für die Teilnehmer möglich ist, weitere Aspekte zu benennen. 
+
+1.3.5	Das Forschungsdesign
+Zur Beantwortung der Forschungsfrage soll eine Online-Befragung durchgeführt werden. Die Online-Befragung soll Auskunft darüber geben, welche minimale Anforderungen an ein Produkt für die Zielgruppe der klein- und mittelständigen Unternehmen, die E-Learning in ihrem Unternehmen einführen wollen, gegeben sind. Geringe Verkaufsabschlüsse bei E-Learning Einsteigerunternehmen, im Zusammenhang mit dem komplexen Autorensystems des Unternehmens, deuten darauf hin, dass die Kunden von dem Leistungsumfang überfordert sind und weniger komplexe Lösungen für ihr Unternehmen suchen. Die Entscheidungskriterien für den Erwerb einer Autorensoftware sollen durch eine Online-Befragung erhoben werden. Die Antworten der Online-Befragung sollen Auskunft darüber geben, welche Features zwingend notwendig sind, um für die Zielgruppe ein marktreifes Produkt auf den Markt zu bringen. Darüber hinaus sollen die herausgefundenen Aspekte bei der Produktpositionierung und anstehenden Marketingmaßnahmen Verwendung finden. 
+
+Bei der Befragung handelt es sich um eine explorative Ist-Aufnahme der kaufentscheidenden Kriterien für die Auswahl einer Autorensoftware zur Erstellung von E-Learning Inhalten, für klein- und mittelständige Unternehmen, die E-Learning einführen. In dieser Arbeit gehen wir der Theorie nach, dass für KMU s, bei der Entscheidung für eine Software zur Einführung von eLearning in Ihrem Unternehmen, vor allem die Einfachheit als Entscheidungskriterium herangezogen wird. Die Einfachheit bezieht sich auf die Lernmedienerstellung, den Kaufabwicklungsprozess und der Integration der Software in den existierenden Technologie Stack. Die Nullhypothese besagt: KMUs die eLearning einführen unterscheiden sich nicht in Bezug auf die Auswahlkriterien für eine Software zur Lernmedienerstellung. Die Alternativhypothese besagt: KMUs die eLearning einführen unterscheiden sich in Bezug auf die Auswahlkriterien für eine Software zur Lernmedienerstellung. 
+
+Die Einfachheit stellt die unabhängige qualitative Variable dar. Durch die obige Hypothese wird ein Kausalzusammenhang zwischen der Einfachheit im Zusammenhang mit dem Einsatz und Erwerb der Autorensoftware, gemessen an der Anzahl der Verkäufe der Software, vermutet. Neben der Einfachheit des Autorensystems spielen weitere unabhängige Variablen für die Anzahl der Verkäufe der Software eine Rolle. Eine entscheidende Rolle kann das moderne und ansprechende Design der Software spielen, durch das sich die Kaufentscheider angesprochen fühlen, unabhängig davon, ob die Software einfach zu bedienen ist. Marketingmaßnahmen können den Traffic auf die Webseite erhöhen, was eine Steigerung der Bekanntheit bedeuten kann, wodurch mehr Autorensoftwaresysteme verkauft werden. Zudem haben Kongresse mit Vorträgen und Messen einen Beitrag am Bekanntheitsgrad des Unternehmens, was letztlich auch zu erhöhten Verkaufszahlen führen kann. Mittels Vorträge haben Unternehmen die Möglichkeit sich als Experten für E-Learning zu positionieren, wodurch gegebenen Falls der Aspekt der Einfachheit in den Hintergrund tritt. Die angegebenen Faktoren zeigen, dass die interne Validität daher nicht garantiert werden kann. „Bei der internen Validität geht es um die kausale Zurechenbarkeit von Veränderungen der abhängigen Variable zu Änderung der unabhängigen Variable, d.h. es wird die Frage untersucht, ob alternative Erklärungen für Beeinflussungen der abhängigen Variable ausgeschlossen werden können“ (Treiblmaier, 2010, S. 19). 
+
+Mit der Online-Befragung gilt es die Gültigkeit unserer H0-Hypothese zu falsifizieren. „Gelingt es, sie zu widerlegen […], so kann daraus die Gültigkeit der Alternativhypothese H1 abgeleitet werden“ (Reinhardt, 2015 S. 40). 
+
+In dieser Studie erfolgt die Auswahl der Stichprobe basierend auf einer bewussten repräsentativen Auswahl. Die Auswahl erfolgt bezüglich der Kriterien: alle Inbound Anfragen, die zwischen KW 30 und KW 40 im Jahr 2019 über die Webseite eintreffen, werden zur Stichprobe hinzugefügt, wenn es sich um KMUs handelt. Bei den Inbound Anfragen handelt es sich um potentielle Kunden, die über das Webseitenformular in Kontakt mit dem Unternehmen treten. Über das Webseiten Formular treten unterschiedliche Unternehmen mit dem Autorensoftwareanbietendem unternehme in Kontakt. Es handelt sich um KMUs und Konzerne unterschiedlichster Branchen. Bei dem Webformular wird zwar die Unternehmensgröße mit abgefragt, aber nicht ob es sich um ein Unternehmen handelt, das schon Erfahrung mit E-Learning hat oder gegebenen Falls sogar einen Wechsel der Autorensoftware vollziehen möchte. 
+
+Es wird ein Querschnittsdesign durchgeführt, d.h. es wird eine einmalige Datenerhebung durchgeführt mit einer sogenannten Ex-post-facto-Anordnung, d.h. die „Aufteilung in Versuchs- und Kontrollgruppe erfolgt erst im „Nachhinein“ (ex post) aufgrund der beobachteten Werte“ (Reinhardt, 2015, S. 72).
+
+ 
+Abbildung 1: Befragungsablauf (Eigene Darstellung in Anlehnung an Reinhardt: 2015, S. 13)
+Operationalisierung
+Operationalisierung ist der „Prozess, bei dem zu einem Begriff präzise Handlungsanweisungen für Forschungsoperationen gegeben werden, mit deren Hilfe entschieden werden soll, ob ein mit dem betreffenden Begriff bezeichnete Phänomen vorliegt oder nicht“ (Reinhardt, 2015, S. 81). In dieser Forschungsarbeit ist das nicht direkt wahrnehmbare Phänomen, die Einfachheit, im Zusammenhang mit Autorensoftware zu operationalisieren. Dabei bezieht sich der Begriff der Einfachheit auf die Nutzung der Software selber, die Kaufabwicklung und Integration der Software in den Technologie-Strack des erwerbenden Unternehmens. Im ersten Schritt sind die Dimensionen des Konstruktes „Einfachheit der Software“ in Kombination mit kaufentscheidungsrelevanten Dimensionen zu bestimmen. Die DIN EN ISO 9241 Ergonomie der Mensch-System-Interaktion „beschreibt Richtlinien zur Sicherstellung der Ergonomie interaktiver Systeme“ . Da es sich bei der Online-Befragung nicht um einen Nutzertest bezüglich der Einfachheit der Autorensoftware handelt, sondern um kaufentscheidungsrelevante Faktoren bezüglich der Einfachheit, müssen die Fragen auf Kriterien abzielen, die ein Käufer bei der Kaufentscheidung zur Verfügung hat.
+
+1.4	Indikatorenbildung
+Dimension A: Einfachheit und Usability bei der Lernmedienerstellung
+Die Einfachheit und Usability bei Autorensoftware ist auch durch die Einarbeitungszeit gegeben, die ein Autor braucht, sich im System zurechtzufinden. Dazu zählen alle Hilfestellungen, die der Autor zur Verfügung hat, um sich selbständig in die Software einzuarbeiten. Die Lernmedienerstellungszeit hat eine große Relevanz für alle Unternehmen, die mit der E-Learning Erstellung in ihrem Unternehmen starten. Templates und Vorlagen helfen den Autoren schnell Lernmedien nach methodischen und didaktischen Prinzipien zu erstellen. Die Mehrsprachigkeit hat insofern eine Relevanz, dass je nachdem wie die Autorensoftware dies unterstützt, der Autor alle Lernmedien pro Sprache neu erstellen muss. Neure Autorensoftware ermöglicht, dass nur Texte und spezielle multimediale Inhalte (z.B. Bilder oder Videos) ausgetauscht werden müssen. Die Integration in den Technologie-Stack des Unternehmens beinhaltet die Art, wie die Lernmedien den Lernern im Unternehmen zur Verfügung gestellt werden, es existieren diverse Export Funktionen und Schnittstellen, wie z .B. SCORM, xAPI, HTML5, die bei Vorhandensein aufzeigen, dass eine einfache Integration via dieser Technologien gegeben ist. Da es sich bei den Autoren häufig um Trainer handelt, ist für diese die Bereitstellung insofern relevant, da sie diese selber vollziehen müssen. Wissensmanagement Features haben einen direkten Einfluss auf die Erstellungszeit der Lernmedien, da durch diese die Erstellungszeit für Lernmedien reduziert wird. 
+
+Indikatoren für die Dimension Einfachheit bei der Lernmedienerstellung. 
+Indikatoren:
+A1: Einarbeitungszeit 
+A2: Anzahl Hilfestellungen für Autor
+A3: Lernmedienerstellungszeit 
+A4: Anzahl Templates und Vorlagen 
+A5: Mehrsprachigkeit 
+A6: Integration in den Technologie-Stack des Unternehmens
+A7: Wissensmanagement Features 
+
+Dimension B: Einfachheit bezüglich der Qualität der erstellten Lernmedien
+Neben der Einfachheit bezüglich der Erstellung der Lernmedien, hat die Qualität der erstellten Lernmedien eine Auswirkung auf die Kaufentscheidung, da darüber letztlich der Erfolg der Integration der E-Learning-Inhalte in das Unternehmen gegeben ist. Die Qualität der Lernmedien kann sich in der Häufigkeit der Nutzung dieser und in den Testergebnissen der Lerner zeigen. Die Nutzungsmöglichkeit der Lernmedien auf unterschiedlichen Systemen wie beispielsweise Smartphone, Tablet oder Desktop ist für viele Unternehmen ein Entscheidungskriterium, da sie ihren Mitarbeitern die Möglichkeit geben möchten, von überall auf die Lerninhalte zuzugreifen. Die Art der Bereitstellung des Lernangebots hat eine Auswirkung auf die Qualität der Lernmedien. Dixon und Overton (2017) geben an, dass 35% der Mitarbeiter nichtinspirierende Lerninhalte als Barriere für das Lernen ansehen (Dixon, Overton, 2017). Die Integration von Multimedia und differenzierte Gestaltung der Lernmedien für unterschiedliche Anwendungsszenarien hat somit eine Auswirkung auf die Qualität der erstellten Lernmedien. 
+Indikatoren:
+B1: Häufigkeit der Nutzung der Lernmedien
+B2: Testergebnisse/ Auswertungsergebnisse – die Lerner nach Nutzen der Lernmedien absolvieren
+B3: Nutzungsmöglichkeit auf unterschiedlichen Systemen 
+B4: Multimedia- und Dokumentintegration (mp4, pptx, doc, pdfs, etc.)
+B5: differenzierte eLearning Medien für unterschiedliche Anwendungsszenarien (Workplace Leanring, Micro-Learning, Gamification, Quizze, Selbstlernmedien, …)
+
+
+Dimension C: Technologie
+Systemvoraussetzungen und Verfügbarkeit auf den unterschiedlichen Betriebssystemen ist häufiger ein Thema bei mittelständigen Unternehmen als bei Konzernen, da sie das Prinzip des „bring-your-own-device “ leben. Das bedeutet, dass nicht die Unternehmen die Hardware zur Verfügung stellen, sondern die Mitarbeiter auf Lerninhalte über ihre eigene Hardware zugreifen können. Neben der einfachen Nutzung für die Mitarbeiter, ist auch die Fragestellung der einfachen Integration in den Technologie-Stack des Unternehmens relevant.
+Indikatoren:
+C1: Verfügbarkeit auf allen Betriebssystemen
+C4: minimale Anforderungen an Systemvoraussetzungen
+
+Dimension D: Sicherheit und Kaufabwicklung
+Auch wenn die Sicherheit bezüglich der Daten und Einhaltung der DGSVO für die meisten Unternehmen sehr wichtig ist, steigt die Akzeptanz Software einzusetzen, die nicht aus Deutschland ist. Einfache und transparente Kaufabwicklung mit der Möglichkeit, die Software zu testen, ohne komplizierte Implementierungen kann ein Auswahlkriterium darstellen. 
+Indikatoren:
+D1: Sicherheit, DSGVO
+D2: Gütesiegel „Software hostet in Germany“
+D3: Einfache und transparente Kaufabwicklung
+D4: Testsystem steht zur Verfügung
+
+Dimension E: Sicherheit die den Kaufprozess betreffend
+Die Art der Lizenz, d.h. monatlich kündbar oder nicht, führt zu einer Vereinfachung bei der Genehmigung im Unternehmen, analog auch bei sehr niedrigen Preisen. Die Nachvollziehbarkeit der Preise vereinfacht die Argumentation innerhalb des erwerbenden Unternehmens. 
+Indikatoren:
+E1: Monatlich kündbar
+E2: Nachvollziehbare Preise
+E3: Niedriger Preis
+
+
+Dimension F: Zukunftssicherheit bezüglich der Auswahl des Unternehmens
+Die Entscheidung für eine Software birgt neben den Kosten auch die Einarbeitungszeit für das Personal, das mit der Software arbeiten soll. 
+Indikatoren:
+F1: Trendentwicklung des Unternehmens
+F2: Existenz des Unternehmens
+F3: Existenz einer Community
+
+Dimension G: Unterstützung bei der Einführung von E-Learning
+Darüber hinaus könnten für Unternehmen die E-Learning einführen Vorgehensmodelle und Konzepte relevant sein. Wie einfach lässt sich E-Learning im Unternehmen einführen? Welche Hilfestellungen stehen diesbezüglich zur Verfügung.
+Indikatoren:
+G1: Unterstützung bzgl. Einführung, Konzepte und Vorgehensmodelle
+
+Dimension H: Individualentwicklung
+Kann die Software einfach vom Kunden erweitert werden und verhindert so einen ständigen Wechsel bei der E-Learning Software? 
+Indikatoren:
+	H1: Individualentwicklungen
+
+1.5	Fragestellungen
+Frage 1: Bei der Auswahl der Software für die E-Learning-Erstellung: Welche Faktoren bezüglich Einfachheit haben für Sie als Autor welche Wichtigkeit? 
+1.	Als Autor können Sie sich innerhalb eines Tages ohne personenbezogene Hilfestellung (wie z.B. Schulung) in das System einarbeiten.
+2.	Es existieren diverse Hilfestellungen wie Handbücher, Quick-Guides, Sceencasts.
+3.	Ein ungeübter Autor (bezogen auf die Software) kann innerhalb von 8 Stunden eine qualitativ hochwertige Micro-Learning-Einheit von 5-10 Minuten erstellen, sofern alle Materialien, die dafür benötigt werden (z.B. Bilder, Videos, Texte) dem Autor zur Verfügung stehen.
+4.	Es stehen diverse Templates und Vorlagen zur Verfügung.
+5.	Bei der Erstellung von mehrsprachigen Inhalten entsteht für den Autor kaum Mehraufwand.
+6.	Einfachheit bzgl. der Integration in den Technologie-Stack des Unternehmens (SCORM, xAPI, HTML5, REST Schnittstelle) 
+7.	Es stehen Wissensmanagement-Features zur Verfügung (z.B. kollaboratives Arbeiten wird unterstützt, Wiederverwendung von Inhalten ist möglich, Pflege von Ressourcen an zentraler Stelle, Referenzierung, Schlagwörter, Variablen)
+8.	Sonstiges (bitte angeben)
+
+Frage 2: Bei der Auswahl der Software: Welche Faktoren bezüglich der Qualität der erstellten Lernmedien haben in Ihrem Unternehmen welche Wichtigkeit?
+1.	Akzeptanz der Lerner, die sich beispielsweise durch die Häufigkeit der Nutzung der Medien zeigt. 
+2.	Die Qualität der Lernmedien sorgt indirekt für sehr gute Testergebnisse der Lernenden bei Zertifizierungen (Methodisch und Didaktische Prinzipien der bereitgestellten Medien unterstützten den Lernprozess optimal).
+3.	Nutzungsmöglichkeit der Lernmedien auf unterschiedlichen Endgeräten (Smartphone, Tablet, Desktop/Laptop)
+4.	Vielfältige Integration von Dokumenten und Multimedia (z.B. Audio, Video, PowerPoint, Word-Dokumente, PDF-Dokumente etc.)
+5.	Differenzierte E-Learning-Medien für unterschiedliche Anwendungsszenarien (Workplace Leanring, Micro-Learning, Gamification, Quizze, Selbstlernmedien, …) 
+6.	Sonstiges (bitte angeben)
+
+Frage 3: Bei der Auswahl der Software: Welche Faktoren bzgl. der Technologie haben in Ihrem Unternehmen welche Wichtigkeit?
+1.	Hohe Verfügbarkeit auf allen Betriebssystemen
+2.	Niedrige Systemvoraussetzungen
+3.	Sonstiges (bitte angeben)
+
+Frage 4: Bei der Auswahl der Software: Welche Faktoren bzgl. der Sicherheit und Kaufabwicklung haben in Ihrem Unternehmen welche Wichtigkeit?
+1.	Das Unternehmen garantiert die Sicherheit der gespeicherten Daten und hält sich an die Richtlinien der DSGVO
+2.	Das Unternehmen hat das Gütesiegel „Software hostet in Germany“ vom Bundesverband IT Mittelstand e.V. (BITMI) für sichere Software 
+3.	Der Kauf kann direkt über die Webseite erfolgen, ein Kontakt mit Vertriebsmitarbeitern ist nicht zwingend notwendig
+4.	Wie die Kaufabwicklung erfolgt ist in einem FAQ genau beschrieben
+5.	Auf ein Testsystem kann ohne Hinterlegen einer Kreditkarte zugegriffen werden
+6.	Auf ein Testsystem kann ohne Kontakt mit Vertriebsmitarbeitern zugegriffen werden
+7.	Sonstiges (bitte angeben)
+
+Frage 5: Sortieren Sie die folgenden Faktoren nach Wichtigkeit für Ihr Unternehmen (Hinweis: 1 hat höchste Priorität und 3 bzw. 4 die niedrigste Priorität):
+1.	Der Lizenzvertrag ist monatlich kündbar
+2.	Wie sich die Preise zusammensetzten ist transparent, d.h. die einzelnen Kosten wie Kosten pro Autor, Kosten pro Lerner, Kosten pro Medium, Hosting, Setup etc. sind einzeln aufgeführt
+3.	Möglichst niedriger Preis
+4.	Sonstiges (bitte angeben)
+
+Frage 6: Bei der Auswahl der Software: Welche Faktoren bzgl. der Zukunftssicherheit haben in Ihrem Unternehmen welche Wichtigkeit?
+1.	Expertenbeiträge wie beispielsweise in einem Blog zeigen, dass sich das Unternehmen mit aktuellen Trendthemen (z.B. künstliche Intelligenz) beschäftigt
+2.	Das Unternehmen existiert seit mindestens 5 Jahren 
+3.	Es existiert eine Autorencommunity, mit der man sich in einem geschützten Forum austauschen kann
+4.	Sonstiges (bitte angeben)
+
+Frage 7: Bei der Auswahl der Software: Wie wichtig ist es, dass das Unternehmen neben dem Softwarevertrieb Unterstützung bei der Einführung von E-Learning in Ihr Unternehmen unterstützt? 
+1.	Unterstützung bei der Einführung von E-Learning durch Workshops und Seminare
+2.	Sonstiges (bitte angeben)
+
+Frage 8: Bei der Auswahl der Software: Wie wichtig ist es, dass die Software ermöglicht, dass von Ihnen beauftragte Individualentwicklungen zur Abdeckung Ihrer Szenarien möglich sind? 
+1.	Individualentwicklungen können durch das Verkaufsunternehmen erfolgen
+2.	Individualentwicklungen können von beliebigen Entwicklern erfolgen, so dass die Software unabhängig vom Verkaufsunternehmen auf Ihre Bedürfnisse angepasst werden kann
+3.	Sonstiges (bitte angeben)
+
+Um die Antwortmöglichkeiten bezüglich der ursprünglichen Fragestellung: Wenn KMUs eLearning einführen, ist vor allem die Einfachheit bei der Lernmedienerstellung, Kaufabwicklung und Integration in den Technologie Stack ausschlaggebend für die Kaufentscheidung, beantworten zu können, soll hier für alle Fragen, außer Frage 5, eine vierstufige Nominalskala Verwendung finden. Diese umfasst die Antwortmöglichkeiten „Nicht wichtig“, „Nice-to-have“, „Sehr wichtig = Entscheidungskriterium“ und als zusätzliche Option „keine Aussage“. Darüber hinaus gibt es bei allen Fragestellungen die Antwortoption „Sonstiges“, die gewährleistet, dass zusätzliche persönliche Meinungen zu den Fragestellungen angegeben werden können. So besteht die Möglichkeit, relevante Aspekte bei der Kaufentscheidung herauszufinden, die im Vorfeld nicht beachtet wurden. Das Freitextfeld soll keine Beschränkung bezüglich der einzugebenden Zeichen haben.
+
+Bei Frage 5 ist eine Ordinalskala zu verwenden. Dabei sind die Antwortoptionen nach Wichtigkeit zu sortieren. Die Antwortoptionen sind: „Der Lizenzvertrag ist monatlich kündbar“, „Wie sich die Preise zusammensetzten ist transparent, d.h. die einzelnen Kosten wie Kosten pro Autor, Kosten pro Lerner, Kosten pro Medium, Hosting, Setup etc. sind einzeln aufgeführt“, „Möglichst niedriger Preis“ und zusätzlich die Option „Sonstiges (bitte angeben)“, die gewährleistet, dass ein entscheidendes Kriterium zu der Fragestellung angegeben werden kann. 
+Projektplan 
+In diesem Kapitel wird der Projektplan für die wissenschaftliche Studie vorgestellt. Der Projektplan beinhaltet eine zeitliche Strukturierung von der Planung, Durchführung, Befragung, Auswertung, Interpretation, Darstellung der Befunde und daraus abzuleitenden Maßnahmen für die Weiterentwicklung des Produktes, die Produktpositionierung und Wettbewerbsstrategie. 
+
+1.6	Konzeption und Vorbereitung
+Zu Beginn wird in KW 43 eine interne Kickoff Veranstaltung zum Start der online Befragung durchgeführt. Ziel der Kickoff Veranstaltung ist es unternehmensintern alle Bereiche, Teams und Personen, die relevant für die Fragebogenbefragung sind, über den Ablauf der Online-Befragung zu informieren. Vor Versand der E-Mail an die Befragungsteilnehmer, mit genauen Informationen über den Ablauf der Testphase, rufen die zuständigen Account Manager die potentiellen Kunden an und informieren sie über den Ablauf der Online-Befragung. In KW 45 erhalten alle telefonisch kontaktierten Teilnehmer, die sich bereit erklärt haben bei der Online-Befragung teilzunehmen, einen Brief per Post mit der Wiederholung des Befragungsablaufes und dem persönlichen Anreiz für die Teilnahme. Alle Teilnehmer der Befragung erhalten die Möglichkeit, die neu entwickelte Autorensoftware, nach product launch, für 6 Monate kostenfrei zu nutzen. Damit die Teilnehmer die Informationen auch digital zur Verfügung haben, erhalten sie kurz vor Beginn der Befragung, ende KW 46 eine E-Mail, in der selbige Informationen, samt Vertraulichkeitsvereinbarung bezüglich der Daten beinhaltet ist. Parallel dazu wird der Pretest für die ausgewählte Gruppe an Pretestern frei geschaltet. Die Rückmeldungen des Pretests werden bis zur Freischaltung des Fragebogens in KW 48 evaluiert und gegebenen Falls in den Fragebogen integriert. Im Anschluss an die Befragung werden die Teilnehmer vom Produktmanagement angerufen. Bei dem persönlichen Telefongespräch geht es darum den Teilnehmern persönlich zu dankten und telefonisch abzuklären, ob aus Befragten Sicht wichtige Aspekte bei der Online-Befragung fehlten. Die folgende Abbildung veranschaulicht den Projektablauf für die Online-Befragung. 
+
+
+
+ 
+Abbildung 2 Projektablauf Fragebogenbefragung - eigene Darstellung
+
+
+
+
+1.7	Durchführung und Auswertung
+Im folgenden Abschnitt werden die Aspekte des Pretests und der Datenanalyse näher erläutert. 
+
+1.7.1	Der Pretest
+„Zu den empirischen Evaluationsverfahren zählen alle Verfahren, die Mängel von Fragen und Fragebögen auf der Basis empirischer Informationen über den Befragten und sein Verhalten identifizieren. Geschieht dies über eine gesonderte empirische Erhebung spricht man von Pretestverfahren“ (Faulbaum et al., 2009, S. 96). Laut Mohler und Porst (1996) sollten Pretests „die Aufgabe haben, Hinweise zu liefern über die Funktionsfähigkeit des gesamten Studiendesigns sowie einzelner Bestandteile dieses Designs, und dazu gehören, neben Stichprobenziehung und Stichprobenrealisierung, neben Fragen des Feldes und sogar der Auswertung, eben auch das Befragungsinstrument, der Fragebogen“ (Mohler, Porst, 1996, S. 8). In der Praxis hat es sich hingegen durchgesetzt, dass der Pretest sich vor allem auf den Fragebogen bezieht. Über folgende Aspekte bezogen auf einen Fragebogen sollte ein Pretest Auskunft geben: Probleme bezüglich der Aufgabenstellung, Interesse und Aufmerksamkeit, Verständlichkeit der Fragen, Reihenfolge der Fragen, Kontexteffekte, Häufigkeitsverteilung der Antworten, technischer Probleme und Zeitdauer der Befragung (Mohler, Porst, 1996, S. 8). Beim Pretest sind folgende Probleme bezüglich der Kriterien im Pretest zu ermitteln. Probleme bezüglich der Aufgabenstellung könnten darin begründet sein, dass die Personengruppe, die Personen beinhaltet, die keine Erfahrung im E-Learning haben, gegebenen Falls mit den verwendeten Begrifflichkeiten nichts anfangen können. So sind für Unternehmen, die E-Learning einsetzten, Begriffe wie SCORM oder xAPI geläufig, wohingegen diese für Neulinge gegebenen Falls nicht bekannt sind. Bezüglich Interesses und Aufmerksamkeit ist darauf zu achten, dass die verwendeten Fragestellungen für die Zielgruppe nachvollziehbar und relevant sind. Dennoch könnte beim Pretest ein Ergebnis sein, dass die Zielgruppe die Relevanz der Fragestellungen nicht versteht. Dann sollte der einleitende Text zur Fragestellung diesbezüglich mehr Auskunft geben. Bezüglich der Reihenfolge der Fragen, könnten nicht nachvollziehbare Reihenfolgen zu Irritationen führen, beispielsweise, wenn nicht vom speziellen aufs allgemeine oder umgekehrte vorgegangen wird, sondern die Antwortalternativen gemischt wurden. Hier könnte die Rückmeldung der Pretester dabei helfen die Fragen für den Befragten in eine sinnvolle Reihenfolge zu bringen. Kontexteffekte können durch vorherige Fragestellungen auftreten. Auch diese sollten, wenn sie von den Pretestern gemeldet werden eliminiert werden. Die Häufigkeitsverteilung bei den Antworten kann Hinweise auf das Skalenniveau geben, das dieses gegeben Falls anzupassen ist. Technische Probleme bei den Pretestern sind ein Hinweis darauf, dass die gewählte Softwarelösung, die für die Online-Befragung ausgewählt wurde, gegebenen Falls nicht für die ausgewählte Zielgruppe verwendet werden kann. Das kann beispielsweise an starken Richtlinien der Unternehmen liegen, die bestimmte Webseiten unternehmensintern blocken. Je nach Online-Befragungstool können dann die Tester nicht auf die Fragebögen zugreifen. Die Zeitdauer des Pretestes ist insofern relevant, da diese Auskunft darüber gibt, ob der Umfang der Befragung angemessen ist. Eine Online-Befragung sollte nicht länger als 15 Minuten Zeit in Anspruch nehmen. Sollte der Pretest ergeben, dass 15 Minuten im Durchschnitt überschritten wurden, sollte der Fragebogen entsprechend angepasst werden. 
+
+1.7.2	Datenanalyse
+Das Tool, zur Bereitstellung der Online-Fragebögen erlaubt einen Export der Ergebnisse in Excel. Alle drei Fragestellungen konnten auf einer vierstufigen Skala beantwortet werden. Dabei wird die erste Antwortmöglichkeit „Nicht wichtig“ mit 1 codiert, die zweite Antwortmöglichkeit „Nice-to-have“ mit 2, 3 wird für „Sehr wichtig = Entscheidungskriterium“ verwendet und die Zahl 4 als Code für die Antwortmöglichkeit „keine Aussage“. Die Antwortmöglichkeit für die offenen Fragen „Sonstiges“ wird mit 5 codiert. 
+
+
+
+
+
+
+
+
+Basierend auf den gewonnenen Daten, kann aus der absoluten Häufigkeit ermittelt werden, welche der Kriterien bei der Kaufentscheidung welche Relevanz für die Auswahl einer Autorensoftware haben. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Fazit 
+Die vorliegende Arbeit zeigt, dass die Durchführung eine Online-Befragung für Unternehmen mit großem konzeptionellem Aufwand verbunden ist. So ist neben der Entwicklung einer Forschungsfrage, der Operationalisierung mit Indikatoren Bildung, geeigneter Skalenauswahl, Durchführung des Pretests die gewählte Zielgruppe für die Befragung ausschlaggebend für den Erfolg der Studie. Die Zielgruppe wurde aus der Gesamtheit der Inbound-Anfragen des Unternehmens ausgewählt und nachträglich bezüglich des Kriteriums E-Learning Anfänger, versus E-Learning erfahren eingeteilt. Die Einteilung erfolgte allein basierend auf der Fragestellung, ob das Unternehmen schon E-Learning für die betriebliche Bildung verwendet oder nicht. Aussagekräftiger wäre es Unternehmen, entsprechend der von Towards Maturity konzipierten Reifegrade, einzuteilen und diesbezüglich die Ergebnisse zu analysieren. Dennoch helfen die Ergebnisse vor allem bei der Produktpositionierung und Marketingmaßnahmen, da durch die Häufigkeitsverteilung der Ergebnisse aufgezeigt wird, auf welche Aspekte die kaufentscheidende Zielgruppe besonders achtet. Genau diese Aspekte können bei den Marketingmaßnahmen hervorgehoben werden. 
+
+Betrachtet wurden bei der Online-Befragung die Kaufentscheider für Autorensoftware. Dementsprechend wurden die Kriterien für die Einfachheit der Software nur indirekt betrachtet. Eine Vorgehensweise, die bei klein- und mittelständigen Unternehmen in Frage zu stellen ist. Bei Konzernen sind die Kaufentscheider andere Personen als die, die letztlich mit der Software arbeiten, bei klein- und mittelständigen Unternehmen ist, das von Unternehmen zu Unternehmen verschieden. Das bedeutet, dass die Usability bei der Lernmedienerstellung gegebenen Falls wesentlich stärker gewichtet wird, als durch die hier durchgeführten Online-Befragung abgebildet werden kann. Um das herauszufinden, müsste eine Online-Befragung mit integriertem Usability-Test der Software durchgeführt werden. Damit wäre es möglich, einen Aufschluss darüber zu erhalten, ob letztlich die Einfachheit der Software oder die Einfachheit bezüglich der Kriterien Kaufabwicklung, Integration in den Technologie Stack, und Erweiterbarkeit ausschlaggebend sind. 
+
+Ein anderer Ansatz, um Auskunft über die hier skizzierte Fragestellung zu erhalten, wäre die datengetriebene Analyse in Kombination mit einer Online-Befragung. Analytics Daten können Auskunft über das Nutzungsverhalten innerhalb von Softwaresystemen geben. Wie häufig wurde ein Element angelegt und wieder gelöscht, wie oft ein Panel geöffnet und wieder geschlossen, ohne dass die darin enthaltenen Eigenschaften modifiziert wurden? Auch wie häufig Hilfeseiten im System aufgerufen wurden, können Auskunft über die Features geben, die nicht selbsterklärend sind. Welche integrierten Medien wurden wie häufig verwendet, und wie lange hat ein Autor benötigt, um ein Lernmedium zu erstellen und für die Lernenden bereitzustellen. So könnten die Bewegungsmuster in der Autorensoftware Auskunft darüber geben, welche Aktionen durchgeführt wurden, um welches Ziel zu erreichen. Würde man die so erhobenen Analytics Daten, den Daten einer Online-Befragung gegenüberstellen, könnten Aussagen bezüglich der vom Autor empfundenen Usability und Einfachheit den Bewegungsdaten im System gegenübergestellt werden. 
+
+ 
+Anhang – Fragebogen
+ 
+Abbildung 4 Fragebogen - Einleitender Text – Darstellung im Online-Befragungstool
+
+ 
+Abbildung 5 Fragebogen Fragestellung 1
+ 
+Abbildung 6 Fragebogen - Fragestellung 1 – Darstellung im Online-Befragungstool
+
+ 
+Abbildung 7 Fragebogen - Fragestellung 2
+
+ 
+Abbildung 8 Fragebogen - Fragestellung 3
+
+ 
+Abbildung 9 Fragebogen - Fragestellung 4
+
+ 
+Abbildung 10 Fragebogen - Fragestellung 5
+
+ 
+Abbildung 11 Fragebogen - Fragestellung 6
+
+ 
+Abbildung 12 Fragebogen - Fragestellung 7
+
+ 
+Abbildung 13 Fragebogen - Fragestellung 8
+ 
+Literaturverzeichnis
+Faulbaum, F., Prüfer, P., Rexroth, M. (2009). Was ist eine gute Frage. Die systematische Evaluation der Fragenqualität. VS Verlag für Sozialwissenschaften, GWV Fachverlage GmbH, Wiesbaden.
+
+Hollenberg, Stefan. (2016). Fragebögen. Fundierte Konstruktion, sachgerechte Anwendung und aussagekräftige Auswertung. Springer VS, Wiesbaden. 
+Kuckartz, U., Ebert, T., Rädiker, S., Stefer, C., (2009). Evaluation online. Internetgestützte Befragung in der Praxis. VS Verlag für Sozialwissenschaften, GWV Fachverlag GmbH, Wiesbaden. 
+Oxley, M., Carnot, A. (2001).  Is the internet the future of market research? - Will online research take over the MR world? In: ADMAP : for decisionmakers in advertising, marketing, media, planning & research, Jg. 36 (2001) Nr. 4, S.51 ISSN 0001-8295
+Reinhardt, R. (2014). Empirische Sozialforschung. 4. Auflage. Riedlingen: Studienbrief der SRH Fernhochschule. 
+Reinhardt, R. (2015). Fragebogentechnik. 4. Auflage. Riedlingen: Studienbrief der SRH Fernhochschule. 
+Schulmeister, R. (2000). Selektions- und Entscheidungskriterien für die Auswahl von Lernplattformen und Autorenwerkzeugen. Hamburg: Universität Hamburg.
+Theobald, A., Dreyer, M., Starsetzki, T. (2003). Online-Marktforschung: Theoretische Grundlagen und praktische Erfahrungen. 2., vollständig überarbeitete und erweiterte Auflage. Springer Fachmedien Wiesbaden.  
+Verzeichnis für Internetquellen
+Bring your own device. (n.d.). Defining „bring your own device“. IBM. Abgerufen am 18.10.2019, von https://www.ibm.com/security/mobile/maas360/bring-your-own-device#-1
+
+Bozarth, J. (2019). Authoring Tools 2019. Abgerufen am 05.10.2019, von https://www.elearningguild.com/insights/239/authoring-tools-2019/
+
+Dixon, G, Overton, L. (2017). Modern learning content. For modern workers. Towards Maturity. IN-FOCUS.  https://towardsmaturity.org/
+
+eLearning INDUSTRY (2016). What Is Performance Support And Why Should You Use Performance Support Tools? Abgerufen am 10.10.2019, von https://elearningindustry.com/use-performance-support-tools
+
+Haslauer, M. (2009). Geschichtliche Entwicklung des eLearnings. Arbeitspapiere Wirtschaftsinformatik Nr. 2 / 2009 ISS 1613-6667. Abgerufen am 18.10.2019
+https://wiwi.uni-giessen.de/dl/down/open/Schwickert/d4b3bdda36e88bebc59587492c0a4f222982cdcbb4455eade01c9a00cb8a144ab7b69bacc9c3bbc181df3405ed553211/Apap_WI_GI_2009_02_PDF_Download_gesch_tzt.pdf
+
+KISS (n.d.). What does KISS stand for? Apache. Abgerufen am 23.12.2019, von 
+https://people.apache.org/~fhanik/kiss.html#-1
+
+Klein und Mittelständige Unternehmen (n.d.). iFM Bonn, Abgerufen am 18.10.2019, von https://www.ifm-bonn.org/definitionen/kmu-definition-der-eu-kommission/
+
+Kollmann, T. (2019). GABLER WIRTSCHAFTSLEXIKON: eLearning. Abgerufen am 05.10.2019 von https://wirtschaftslexikon.gabler.de/definition/e-learning-34033
+
+mmb-Branchenmonitor (2018). Ein starkes Jahr für die „Kleineren“ Ergebnisse des mmb-Branchenmonitors „E-Learning-Wirtschaft“ 2018. Abgerufen am 11.20.2019, von https://www.mmb-institut.de/downloads/mmb-branchenmonitor-2018-ein-starkes-jahr-fuer-die-kleineren/
+
+Mohler, P., Porst, R., (1996).  Pretest und Weiterentwicklung von Fragebogen. Statistisches Bundesamt, Wiesbaden, 1996. Abgerufen am 23.12.2019, von
+https://www.destatis.de/GPStatistik/servlets/MCRFileNodeServlet/DEMonografie_derivate_00001363/Band_9_-_Pretest_und_Weiterentwicklung_von_Fragebogen.pdf%3Bjsessionid%3DE4264C685F896C9B080DA0444E597DAE
+
+Onlinebefragung. (2018). In Springer Gabler Verlag (Herausgeber), Gabler Wirtschaftslexikon (11nd ed). Abgerufen am 22.12.2019, von 
+https://wirtschaftslexikon.gabler.de/definition/onlinebefragung-51484/version-274646
+
+Organisationsstruktur. (n.d.). In Springer Gabler Verlag (Herausgeber), Gabler Wirtschaftslexikon (11nd ed). Abgerufen am 03.02.2018, von 
+http://wirtschaftslexikon.gabler.de/Archiv/5359/organisationsstruktur-v11.html
+
+Product launch. (n.d.). Cambridge Dictionary (Herausgeber). Abgerufen am 22.12.2019, von 
+https://dictionary.cambridge.org/dictionary/english/product-launch
+
+Rammstedt, B. (2004). Zur Bestimmung der Güte von Multi-Item-Skalen: Eine Einführung. Zentrum für Umfragen, Methoden und Analysen, Mannheim. ZUMA How-to-Riehe Nr. 12. Abgerufen am 22.12.2019, von https://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/howto/how-to12br.pdf
+
+Scrum.org (2019). A Better Way Of Building Products. Abgerufen am 22.12.2019, von https://www.scrum.org/resources/what-is-scrum
+
+Informelles Lernen (2001). Online Lexikon für Psychologie und Pädagogik. Online-Enzyklopädie aus den Wissenschaften Psychologie und Pädagogik. Abgerufen am 21.12.2019, von https://lexikon.stangl.eu/16566/informelles-lernen/
+
+Towards Maturity (2018). The Transformation Curve. The L&D journey to deliver lasting business impact. Learning Benchmark Report. Abgerufen am 02.08.2019, von
+https://towardsmaturity.org/2018/01/31/transformation/
+
+Treiblmaier, H. (2010). Datenqualität und Validität bei Online-Befragung 
+Article  in  der markt · March 2010 DOI: 10.1007/s12642-010-0030-y. Abgerufen am 22.12.2019, von
+https://www.researchgate.net/publication/227225737_Datenqualitat_und_Validitat_bei_Online-Befragungen/link/5514381b0cf23203199d0984/download 
+
+Usability ISO 9241. (n.d.). Handbuch Usability. Abgerufen am 26.12.2019, von http://www.handbuch-usability.de/iso-9241.html#-1
+
+
+
+ 
+Anhang – Versicherung
+
+
+Versicherung
+
+
+Name:	Dagmar Rostek
+Matrikel-Nr.:	2004169
+Studiengang:	Wirtschaftspsychologie
+
+
+
+Hiermit versichere ich, dass ich die vorliegende Hausarbeit mit dem Thema
+
+„Kundenbefragung zur Ermittlung des Leistungsumfangs eines Minimal Marketable Products zur Einführung von eLearning in Klein und Mittelständigen Unternehmen.“
+
+ohne fremde Hilfe erstellt habe. Alle verwendeten Quellen wurden angegeben. Ich versichere, dass ich bisher keine Hausarbeit mit gleichem oder ähnlichem Thema an einer anderen Hochschule eingereicht habe.
+
+
+
+Datum:	28.12.2019	Unterschrift: 	 
+
+
+
+
